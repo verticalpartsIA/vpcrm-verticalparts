@@ -1,11 +1,10 @@
 # Proteção de Credenciais
 Acesso ao CRM.txt
 
-# Lixo de Navegador / Cache (Evitando subir metadados do Save Page As)
-leads2b/
-66e3d8b3-d2d8-4eb2-b5ea-ebb055955dcc/
-.cursor/
-
-# OS Files
+# Lixo de Sistema (Apenas arquivos temporários reais)
 .DS_Store
 Thumbs.db
+.cursor/
+
+# A pasta leads2b AGORA ESTÁ INCLUÍDA
+# Removi a restrição para garantir que todos os seus arquivos subam.

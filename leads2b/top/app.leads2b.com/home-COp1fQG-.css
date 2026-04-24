@@ -1,0 +1,300 @@
+.app-icon[data-v-40276880] {
+    width: 80px;
+    height: 80px;
+    border: 2px solid #EEEEEE;
+    border-radius: 20px!important;
+    color: #fff;
+    font-weight: 1!important
+}
+
+.app-icon[data-v-40276880]:hover {
+    color: #e9ecef;
+    border: 2px solid #D8D8D8
+}
+
+.app-icon.blocked-icon[data-v-40276880] {
+    border: 3px solid #FF8A00;
+    position: relative
+}
+
+.app-icon-label[data-v-40276880] {
+    width: 80px;
+    text-align: center;
+    line-height: 1.1
+}
+
+.top-right-icon[data-v-40276880] {
+    right: 0;
+    top: 0
+}
+
+.animated-border-wrapper[data-v-1f4b5c00] {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    border-radius: 12px;
+    transition: all .3s ease
+}
+
+.animated-border-wrapper--active[data-v-1f4b5c00]:before {
+    content: "";
+    position: absolute;
+    top: -2px;
+    right: -2px;
+    bottom: -2px;
+    left: -2px;
+    border-radius: 12px;
+    padding: 2px;
+    background: linear-gradient(90deg,#a3fb43,#43b1ff,#ff1493,#79d793,#a3fb43,#43b1ff,#ff1493,#79d793);
+    background-size: 400% 100%;
+    animation: borderFlow-1f4b5c00 12s linear infinite;
+    -webkit-mask: linear-gradient(#fff 0 0) content-box,linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+    mask: linear-gradient(#fff 0 0) content-box,linear-gradient(#fff 0 0);
+    mask-composite: exclude;
+    pointer-events: none
+}
+
+.home-objective-card[data-v-1f4b5c00] {
+    transition: all .3s ease;
+    height: 100%;
+    min-height: 120px;
+    border-radius: 12px;
+    position: relative;
+    z-index: 1
+}
+
+.home-objective-card.locked-card[data-v-1f4b5c00] {
+    opacity: .7
+}
+
+.locked-overlay[data-v-1f4b5c00] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 10;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    background: #fff6;
+    border-radius: 12px;
+    pointer-events: none;
+    padding: 12px 12px 0
+}
+
+.locked-overlay .lock-icon[data-v-1f4b5c00] {
+    font-size: 1.5rem;
+    color: #673ab7;
+    background: #fff;
+    padding: 8px;
+    border-radius: 50%;
+    box-shadow: 0 2px 8px #00000026
+}
+
+.card-content[data-v-1f4b5c00] {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    flex-grow: 1
+}
+
+.image-wrapper[data-v-1f4b5c00] {
+    margin-top: 36px;
+    position: relative;
+    width: 100px;
+    height: 73px;
+    flex-shrink: 0
+}
+
+.image-container[data-v-1f4b5c00] {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 2;
+    clip-path: polygon(7% 11%,92% 12%,95% 100%,1% 100%)
+}
+
+.objective-image[data-v-1f4b5c00] {
+    width: 50px;
+    height: 50px;
+    object-fit: contain
+}
+
+@keyframes borderFlow-1f4b5c00 {
+    0% {
+        background-position: 0% 0%
+    }
+
+    to {
+        background-position: 300% 0%
+    }
+}
+
+@media (max-width: 768px) {
+    .home-objective-card[data-v-1f4b5c00] {
+        min-height:140px
+    }
+
+    .description-text[data-v-1f4b5c00] {
+        -webkit-line-clamp: 1;
+        line-clamp: 1
+    }
+
+    .image-wrapper[data-v-1f4b5c00] {
+        width: 80px;
+        height: 58px
+    }
+
+    .objective-image[data-v-1f4b5c00] {
+        width: 40px;
+        height: 40px
+    }
+}
+
+.app-icon-grid[data-v-8d3d7862] {
+    grid-template-columns: repeat(auto-fit,minmax(100px,1fr))
+}
+
+.img-logo[data-v-8d3d7862] {
+    width: 32px!important;
+    height: 32px!important
+}
+
+.img-logo__ia[data-v-8d3d7862] {
+    object-fit: contain;
+    object-position: center;
+    padding: 4px;
+    box-sizing: border-box;
+    background: radial-gradient(302.33% 132.57% at 42.22% -.46%,#6163ff,#cf4fb3)
+}
+
+.huge-heading[data-v-8d3d7862] {
+    font-size: 3rem!important
+}
+
+.margin-custom[data-v-8d3d7862] {
+    margin-right: 45px
+}
+
+.mood-profile-icon[data-v-8d3d7862] {
+    position: relative;
+    border-radius: 100%;
+    border: 2.5px solid #495057
+}
+
+.mood-profile-icon--positive[data-v-8d3d7862] {
+    border-color: #01b89a
+}
+
+.mood-profile-icon--negative[data-v-8d3d7862] {
+    border-color: #f44336
+}
+
+.mood-profile-icon__icon[data-v-8d3d7862] {
+    position: absolute;
+    bottom: -22%;
+    right: -5%;
+    background-color: #495057;
+    border-radius: 100%;
+    color: #e9ecef
+}
+
+.mood-profile-icon__icon--positive[data-v-8d3d7862] {
+    background-color: #01b89a
+}
+
+.mood-profile-icon__icon--negative[data-v-8d3d7862] {
+    background-color: #f44336
+}
+
+.gradient-icon-wrapper[data-v-8d3d7862] {
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+    background: linear-gradient(90deg,#ad46ff,#f6339a);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 16px
+}
+
+.gradient-icon-wrapper .gradient-icon[data-v-8d3d7862] {
+    width: 100%;
+    height: 100%;
+    object-fit: contain
+}
+
+.gradient-button[data-v-8d3d7862] {
+    background: linear-gradient(90deg,#ad46ff,#f6339a)!important;
+    border: none!important;
+    color: #fff!important
+}
+
+.gradient-button[data-v-8d3d7862]:hover {
+    opacity: .9;
+    background: linear-gradient(90deg,#ad46ff,#f6339a)!important
+}
+
+.blocked-wrapper[data-v-8d3d7862] {
+    background: linear-gradient(135deg,#faf5ff,#eff6ff)
+}
+
+.btn-confirm-new-dashboard-swal {
+    border-radius: 0!important;
+    background: #64ffda!important;
+    color: #333!important;
+    padding: 1rem!important;
+    font-weight: 600!important;
+    border: 0!important
+}
+
+.btn-cancel-new-dashboard-swal {
+    position: absolute!important;
+    top: 5px!important;
+    right: 5px!important;
+    border: 0!important;
+    background: transparent!important;
+    color: #333!important;
+    font-weight: 700!important
+}
+
+.new-dashboard__header {
+    text-align: center;
+    background: #2d3135;
+    padding: 4rem 0
+}
+
+.new-dashboard__header h1,.new-dashboard__header h2,.new-dashboard__header h5 {
+    color: #fff
+}
+
+.new-dashboard__header h1,.new-dashboard__header h2 {
+    font-weight: 700
+}
+
+.new-dashboard__header h1 {
+    font-size: 2.5rem
+}
+
+.new-dashboard__image {
+    width: 100%;
+    cursor: pointer
+}
+
+.new-dashboard__button {
+    padding: 1rem;
+    background: #64ffda;
+    border: 1px #64ffda solid;
+    outline: none
+}
+
+.new-dashboard__header {
+    margin-top: -64px
+}

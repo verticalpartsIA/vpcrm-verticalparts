@@ -1,0 +1,18 @@
+.template-card__title[data-v-65701adc] {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    display: -webkit-box;
+    max-height: 32px
+}
+
+.template-card__message[data-v-65701adc] {
+    height: 81px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    display: -webkit-box;
+    line-height: 1.4
+}

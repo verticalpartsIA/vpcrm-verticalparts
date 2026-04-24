@@ -1,0 +1,489 @@
+.a-input-text_wrapper[data-v-94a268a7] {
+    position: relative
+}
+
+.input-password--wrapper {
+    bottom: 1px!important;
+    cursor: pointer
+}
+
+.input-password--wrapper .fa {
+    top: 44%!important;
+    cursor: pointer
+}
+
+.input-password--wrapper[data-v-73806c6d] {
+    position: relative
+}
+
+.input-password--wrapper .icon-eye-line[data-v-73806c6d],.input-password--wrapper .icon-eye-off-line[data-v-73806c6d] {
+    color: #000
+}
+
+button.close[data-v-f1f57307] {
+    padding: 0;
+    cursor: pointer;
+    background: transparent;
+    border: 0;
+    -webkit-appearance: none
+}
+
+.close[data-v-f1f57307] {
+    float: right;
+    font-size: 21px;
+    font-weight: 700;
+    line-height: 1;
+    color: #000;
+    text-shadow: 0 1px 0 #fff;
+    opacity: .2;
+    filter: alpha(opacity=20)
+}
+
+.alert-modal[data-v-f1f57307] .modal-body2 {
+    padding: 6px 0
+}
+
+.alert-modal[data-v-f1f57307] .modal-footer2,.alert-modal[data-v-f1f57307] .modal-header2 {
+    padding: 0
+}
+
+.alert-modal[data-v-f1f57307] .btn-danger {
+    background-color: #e84e40;
+    border-color: #dd191d;
+    color: #fff
+}
+
+@font-face {
+    font-family: Averta-font;
+    src: url(/Averta-Semibold-1zdRWFR_.ttf) format("ttf"),url(/Averta%20Semibold-DrnVWWN7.woff) format("woff")
+}
+
+#login-box[data-v-200f684c] {
+    display: flex;
+    min-height: 100vh;
+    max-width: 100%;
+    margin: 0;
+    font-family: Inter,sans-serif
+}
+
+#login-box .btn[data-v-200f684c] {
+    text-transform: none
+}
+
+#login-box .left-side[data-v-200f684c] {
+    width: 30%;
+    flex: 1 1 auto;
+    padding: 32px 70px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start
+}
+
+#login-box .left-side .form-field[data-v-200f684c] {
+    max-width: 480px
+}
+
+#login-box .left-side .form-field .back-to-login[data-v-200f684c] {
+    color: #717579;
+    font-weight: 500;
+    font-size: 14px;
+    text-decoration: underline
+}
+
+#login-box .left-side .form-field .forgotpass-btn[data-v-200f684c] {
+    position: relative;
+    height: 64px;
+    width: 224px;
+    background: linear-gradient(99.45deg,#ff7a00 11.19%,#ffa800);
+    border-radius: 8px;
+    border: none;
+    box-shadow: inset 0 -4px #bf5b00;
+    color: #000;
+    font-weight: 600;
+    font-size: 16px;
+    margin-left: 0;
+    margin-top: 20px
+}
+
+#login-box .left-side .form-field .forgotpass-btn[data-v-200f684c]:active {
+    top: 3px;
+    box-shadow: inset 0 -2px #bf5b00
+}
+
+@media (max-width: 852px) {
+    #login-box .left-side .form-field[data-v-200f684c] {
+        place-self:center
+    }
+}
+
+#login-box .left-side .logo[data-v-200f684c] {
+    margin-bottom: 45px
+}
+
+#login-box .left-side .logo img[data-v-200f684c] {
+    height: 32px
+}
+
+#login-box .left-side header[data-v-200f684c] {
+    margin-bottom: 46px
+}
+
+#login-box .left-side header p[data-v-200f684c] {
+    text-align: left;
+    margin: 0;
+    color: #000
+}
+
+#login-box .left-side header small[data-v-200f684c] {
+    color: #717579;
+    font-weight: 600;
+    font-size: 14px
+}
+
+@media (max-width: 1230px) {
+    #login-box .left-side header p[data-v-200f684c] {
+        font-size:21px
+    }
+}
+
+@media (max-width: 1050px) {
+    #login-box .left-side header p[data-v-200f684c] {
+        font-size:17px
+    }
+}
+
+#login-box .left-side .forget-a[data-v-200f684c] {
+    position: absolute;
+    right: 0;
+    top: -1px;
+    z-index: 1
+}
+
+#login-box .left-side .forget-a a[data-v-200f684c] {
+    color: #717579;
+    font-weight: 500;
+    font-size: 14px;
+    text-decoration: underline
+}
+
+#login-box .left-side .checkbox-nice[data-v-200f684c] {
+    margin-bottom: 39px
+}
+
+#login-box .left-side .checkbox-nice .rememberLoginBlack[data-v-200f684c]:before {
+    background: #000
+}
+
+#login-box .left-side .checkbox-nice .rememberLoginWhite[data-v-200f684c]:before {
+    background: #fff
+}
+
+#login-box .left-side .btns[data-v-200f684c] {
+    grid-template-columns: 1fr 1fr;
+    align-items: center
+}
+
+#login-box .left-side .btns .submit-form-btn[data-v-200f684c] {
+    position: relative;
+    width: 224px;
+    height: 64px;
+    background: linear-gradient(99.45deg,#ff7a00 11.19%,#ffa800);
+    border-radius: 8px;
+    border: none;
+    box-shadow: inset 0 -4px #bf5b00;
+    color: #000;
+    font-size: 16px
+}
+
+#login-box .left-side .btns .submit-form-btn[data-v-200f684c]:active {
+    top: 3px;
+    box-shadow: inset 0 -2px #bf5b00
+}
+
+#login-box .right-side[data-v-200f684c] {
+    width: 50%;
+    flex: 1 1 auto
+}
+
+#login-box .right-side .product-img[data-v-200f684c] {
+    max-width: 440px;
+    width: 38%;
+    right: 40px;
+    top: 200px
+}
+
+@media (max-width: 900px) {
+    #login-box .right-side .product-img[data-v-200f684c] {
+        display:none
+    }
+}
+
+#login-box .right-side .green-decoration-container[data-v-200f684c] {
+    border-left: 7px solid #333658;
+    right: -90px;
+    transform: skew(10deg);
+    border-bottom-left-radius: 45px
+}
+
+@media (max-width: 900px) {
+    #login-box .right-side .green-decoration-container[data-v-200f684c] {
+        display:none
+    }
+}
+
+@media (max-width: 900px) {
+    #login-box .right-side .info-container[data-v-200f684c] {
+        width:100%
+    }
+}
+
+@media (min-width: 901px) {
+    #login-box .right-side .info-container[data-v-200f684c] {
+        width:calc(75% - 190px)
+    }
+}
+
+#login-box .right-side .whatsapp-img-bg[data-v-200f684c] {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-image: url(/whatsapp-group-DE6j1D-S.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%
+}
+
+#login-box .right-side .img--default[data-v-200f684c] {
+    background-image: url(/mask-group-DHJMjMjL.svg);
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+#login-box .right-side .img--no-cover[data-v-200f684c] {
+    background: unset;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 72px 72px 20px
+}
+
+#login-box .right-side .img--no-cover .form-right-side .whatsapp-media-icon[data-v-200f684c] {
+    margin-bottom: 43px
+}
+
+#login-box .right-side .img--no-cover .form-right-side .whatsapp-media-icon img[data-v-200f684c] {
+    width: 80px
+}
+
+@media (max-width: 1370px) {
+    #login-box .right-side .img--no-cover .form-right-side .whatsapp-media-icon[data-v-200f684c] {
+        margin-bottom:25px
+    }
+}
+
+#login-box .right-side .img--no-cover .form-right-side h1[data-v-200f684c] {
+    color: #fff;
+    font-size: 48px;
+    line-height: 56px;
+    font-weight: 600;
+    margin-bottom: 5px;
+    padding: 0;
+    font-family: Averta-font;
+    letter-spacing: -.01em;
+    text-shadow: 0px 2px 4px #04AC1E
+}
+
+@media (max-width: 1370px) {
+    #login-box .right-side .img--no-cover .form-right-side h1[data-v-200f684c] {
+        font-size:35px;
+        line-height: 64px
+    }
+}
+
+@media screen and (max-width: 852px) {
+    #login-box .right-side .img--no-cover .form-right-side h1[data-v-200f684c] {
+        line-height:3rem;
+        margin-bottom: 1rem
+    }
+}
+
+#login-box .right-side .img--no-cover .form-right-side .date[data-v-200f684c] {
+    font-size: 24px;
+    line-height: 28.13px;
+    margin: 24px 0 8px
+}
+
+#login-box .right-side .img--no-cover .form-right-side h5[data-v-200f684c] {
+    color: #000;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: -.01em;
+    margin-bottom: 24px
+}
+
+#login-box .right-side .img--no-cover .form-right-side .link[data-v-200f684c] {
+    text-decoration: underline;
+    margin-bottom: 32px
+}
+
+#login-box .right-side .img--no-cover .form-right-side small[data-v-200f684c] {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: -.01em;
+    position: relative;
+    bottom: 7px
+}
+
+#login-box .right-side .img--no-cover .form-right-side .media[data-v-200f684c] {
+    margin-top: 5px
+}
+
+#login-box .right-side .img--no-cover .form-right-side .media figure[data-v-200f684c] {
+    max-width: 500px;
+    margin: 32px 0
+}
+
+#login-box .right-side .img--no-cover .form-right-side .media figure img[data-v-200f684c] {
+    width: 100%;
+    box-shadow: 20px 4px 20px #0003
+}
+
+@media (max-width: 1370px) {
+    #login-box .right-side .img--no-cover .form-right-side .media figure[data-v-200f684c] {
+        max-width:418px
+    }
+}
+
+#login-box .right-side .img--no-cover .form-right-side .media .call-to-action a[data-v-200f684c] {
+    position: relative;
+    width: 224px;
+    height: 48px;
+    color: #000;
+    font-size: 16px;
+    font-weight: 700;
+    background: linear-gradient(0deg,#fff,#fff);
+    border: 1px solid #B2B2B2;
+    box-shadow: inset 0 -4px #b2b2b2;
+    border-radius: 8px
+}
+
+#login-box .right-side .img--no-cover .form-right-side .media .call-to-action a[data-v-200f684c]:active {
+    top: 3px;
+    box-shadow: inset 0 -2px #b2b2b2
+}
+
+.login--box[data-v-200f684c] {
+    display: flex;
+    margin: 0
+}
+
+.main-login[data-v-200f684c] {
+    overflow: unset;
+    height: auto
+}
+
+.main-login form[data-v-200f684c] {
+    padding: 0
+}
+
+@media only screen and (max-width: 860px) {
+    .login--box[data-v-200f684c] {
+        flex-wrap:wrap;
+        width: 100%
+    }
+
+    .login--box .left-side[data-v-200f684c] {
+        width: 100%!important;
+        padding: 1rem!important
+    }
+
+    .login--box .left-side header p[data-v-200f684c] {
+        line-height: 2.5rem
+    }
+
+    .login--box .right-side[data-v-200f684c] {
+        width: 100%!important;
+        padding: 0!important
+    }
+
+    .login--box .right-side .img--no-cover[data-v-200f684c] {
+        padding: 1rem!important
+    }
+
+    .login--box .btns[data-v-200f684c] {
+        display: block!important
+    }
+
+    .login--box .btns .a-btn[data-v-200f684c] {
+        width: 100%!important
+    }
+
+    .login--box .btns .create-account[data-v-200f684c] {
+        padding: 1rem 0
+    }
+}
+
+#login[data-v-200f684c] {
+    height: 100%;
+    overflow-y: auto;
+    overflow-x: hidden
+}
+
+#login .form-field[data-v-200f684c] {
+    min-height: 350px
+}
+
+.step-signup[data-v-200f684c] {
+    padding: 24px 32px
+}
+
+@media only screen and (max-width: 767px) {
+    .step-signup[data-v-200f684c] {
+        padding:8px 16px
+    }
+}
+
+.text-success[data-v-200f684c] {
+    color: #2a645e!important
+}
+
+.text-danger[data-v-200f684c] {
+    color: #f44336!important
+}
+
+.password-strength-bar[data-v-200f684c] {
+    width: 100%;
+    height: 4px;
+    background-color: #e0e0e0;
+    border-radius: 3px;
+    overflow: hidden
+}
+
+.password-strength-fill[data-v-200f684c] {
+    height: 100%;
+    transition: width .3s ease,background-color .3s ease;
+    border-radius: 3px
+}
+
+.strength-weak[data-v-200f684c] {
+    background-color: #f44336
+}
+
+.strength-medium[data-v-200f684c] {
+    background-color: #f0b111
+}
+
+.strength-strong[data-v-200f684c] {
+    background-color: #01b89a
+}
+
+.strength-very-strong[data-v-200f684c] {
+    background-color: #2a645e
+}
+
+#login .grecaptcha-badge {
+    visibility: hidden
+}

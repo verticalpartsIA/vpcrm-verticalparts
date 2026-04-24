@@ -1,0 +1,7158 @@
+@font-face {
+    font-family: remixicon;
+    src: url(/remixicon-Bl436___.eot?t=1572787439022);
+    src: url(/remixicon-Bl436___.eot?t=1572787439022#iefix) format("embedded-opentype"),url(/remixicon-DspJc5fq.woff2?t=1572787439022) format("woff2"),url(/remixicon-PYlTtK0P.woff?t=1572787439022) format("woff"),url(/remixicon-BE-_g4fE.ttf?t=1572787439022) format("truetype"),url(/remixicon-ByXVdaUC.svg?t=1572787439022#remixicon) format("svg");
+    font-display: swap
+}
+
+[class^=ri-],[class*=" ri-"] {
+    font-family: remixicon!important;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale
+}
+
+.ri-lg {
+    font-size: 1.3333em;
+    line-height: .75em;
+    vertical-align: -.0667em
+}
+
+.ri-xl {
+    font-size: 1.5em;
+    line-height: .6666em;
+    vertical-align: -.075em
+}
+
+.ri-xxs {
+    font-size: .5em
+}
+
+.ri-xs {
+    font-size: .75em
+}
+
+.ri-sm {
+    font-size: .875em
+}
+
+.ri-1x {
+    font-size: 1em
+}
+
+.ri-2x {
+    font-size: 2em
+}
+
+.ri-3x {
+    font-size: 3em
+}
+
+.ri-4x {
+    font-size: 4em
+}
+
+.ri-5x {
+    font-size: 5em
+}
+
+.ri-6x {
+    font-size: 6em
+}
+
+.ri-7x {
+    font-size: 7em
+}
+
+.ri-8x {
+    font-size: 8em
+}
+
+.ri-9x {
+    font-size: 9em
+}
+
+.ri-10x {
+    font-size: 10em
+}
+
+.ri-fw {
+    text-align: center;
+    width: 1.25em
+}
+
+.ri-4k-fill:before {
+    content: "î¨"
+}
+
+.ri-4k-line:before {
+    content: "î¨‚"
+}
+
+.ri-account-box-fill:before {
+    content: "î¨ƒ"
+}
+
+.ri-account-box-line:before {
+    content: "î¨„"
+}
+
+.ri-account-circle-fill:before {
+    content: "î¨…"
+}
+
+.ri-account-circle-line:before {
+    content: "î¨†"
+}
+
+.ri-account-pin-box-fill:before {
+    content: "î¨‡"
+}
+
+.ri-account-pin-box-line:before {
+    content: "î¨ˆ"
+}
+
+.ri-account-pin-circle-fill:before {
+    content: "î¨‰"
+}
+
+.ri-account-pin-circle-line:before {
+    content: "î¨Š"
+}
+
+.ri-add-box-fill:before {
+    content: "î¨‹"
+}
+
+.ri-add-box-line:before {
+    content: "î¨Œ"
+}
+
+.ri-add-circle-fill:before {
+    content: "î¨"
+}
+
+.ri-add-circle-line:before {
+    content: "î¨Ž"
+}
+
+.ri-add-fill:before {
+    content: "î¨"
+}
+
+.ri-add-line:before {
+    content: "î¨"
+}
+
+.ri-admin-fill:before {
+    content: "î¨‘"
+}
+
+.ri-admin-line:before {
+    content: "î¨’"
+}
+
+.ri-airplay-fill:before {
+    content: "î¨“"
+}
+
+.ri-airplay-line:before {
+    content: "î¨”"
+}
+
+.ri-alarm-fill:before {
+    content: "î¨•"
+}
+
+.ri-alarm-line:before {
+    content: "î¨–"
+}
+
+.ri-alarm-warning-fill:before {
+    content: "î¨—"
+}
+
+.ri-alarm-warning-line:before {
+    content: "î¨˜"
+}
+
+.ri-album-fill:before {
+    content: "î¨™"
+}
+
+.ri-album-line:before {
+    content: "î¨š"
+}
+
+.ri-alert-fill:before {
+    content: "î¨›"
+}
+
+.ri-alert-line:before {
+    content: "î¨œ"
+}
+
+.ri-align-bottom:before {
+    content: "î¨"
+}
+
+.ri-align-center:before {
+    content: "î¨ž"
+}
+
+.ri-align-justify:before {
+    content: "î¨Ÿ"
+}
+
+.ri-align-left:before {
+    content: "î¨ "
+}
+
+.ri-align-right:before {
+    content: "î¨¡"
+}
+
+.ri-align-top:before {
+    content: "î¨¢"
+}
+
+.ri-align-vertically:before {
+    content: "î¨£"
+}
+
+.ri-alipay-fill:before {
+    content: "î¨¤"
+}
+
+.ri-alipay-line:before {
+    content: "î¨¥"
+}
+
+.ri-amazon-fill:before {
+    content: "î¨¦"
+}
+
+.ri-amazon-line:before {
+    content: "î¨§"
+}
+
+.ri-anchor-fill:before {
+    content: "î¨¨"
+}
+
+.ri-anchor-line:before {
+    content: "î¨©"
+}
+
+.ri-android-fill:before {
+    content: "î¨ª"
+}
+
+.ri-android-line:before {
+    content: "î¨«"
+}
+
+.ri-angularjs-fill:before {
+    content: "î¨¬"
+}
+
+.ri-angularjs-line:before {
+    content: "î¨­"
+}
+
+.ri-anticlockwise-2-fill:before {
+    content: "î¨®"
+}
+
+.ri-anticlockwise-2-line:before {
+    content: "î¨¯"
+}
+
+.ri-anticlockwise-fill:before {
+    content: "î¨°"
+}
+
+.ri-anticlockwise-line:before {
+    content: "î¨±"
+}
+
+.ri-apple-fill:before {
+    content: "î¨²"
+}
+
+.ri-apple-line:before {
+    content: "î¨³"
+}
+
+.ri-apps-2-fill:before {
+    content: "î¨´"
+}
+
+.ri-apps-2-line:before {
+    content: "î¨µ"
+}
+
+.ri-apps-fill:before {
+    content: "î¨¶"
+}
+
+.ri-apps-line:before {
+    content: "î¨·"
+}
+
+.ri-archive-drawer-fill:before {
+    content: "î¨¸"
+}
+
+.ri-archive-drawer-line:before {
+    content: "î¨¹"
+}
+
+.ri-archive-fill:before {
+    content: "î¨º"
+}
+
+.ri-archive-line:before {
+    content: "î¨»"
+}
+
+.ri-arrow-down-circle-fill:before {
+    content: "î¨¼"
+}
+
+.ri-arrow-down-circle-line:before {
+    content: "î¨½"
+}
+
+.ri-arrow-down-fill:before {
+    content: "î¨¾"
+}
+
+.ri-arrow-down-line:before {
+    content: "î¨¿"
+}
+
+.ri-arrow-down-s-fill:before {
+    content: "î©€"
+}
+
+.ri-arrow-down-s-line:before {
+    content: "î©"
+}
+
+.ri-arrow-drop-down-fill:before {
+    content: "î©‚"
+}
+
+.ri-arrow-drop-down-line:before {
+    content: "î©ƒ"
+}
+
+.ri-arrow-drop-left-fill:before {
+    content: "î©„"
+}
+
+.ri-arrow-drop-left-line:before {
+    content: "î©…"
+}
+
+.ri-arrow-drop-right-fill:before {
+    content: "î©†"
+}
+
+.ri-arrow-drop-right-line:before {
+    content: "î©‡"
+}
+
+.ri-arrow-drop-up-fill:before {
+    content: "î©ˆ"
+}
+
+.ri-arrow-drop-up-line:before {
+    content: "î©‰"
+}
+
+.ri-arrow-go-back-fill:before {
+    content: "î©Š"
+}
+
+.ri-arrow-go-back-line:before {
+    content: "î©‹"
+}
+
+.ri-arrow-go-forward-fill:before {
+    content: "î©Œ"
+}
+
+.ri-arrow-go-forward-line:before {
+    content: "î©"
+}
+
+.ri-arrow-left-circle-fill:before {
+    content: "î©Ž"
+}
+
+.ri-arrow-left-circle-line:before {
+    content: "î©"
+}
+
+.ri-arrow-left-down-fill:before {
+    content: "î©"
+}
+
+.ri-arrow-left-down-line:before {
+    content: "î©‘"
+}
+
+.ri-arrow-left-fill:before {
+    content: "î©’"
+}
+
+.ri-arrow-left-line:before {
+    content: "î©“"
+}
+
+.ri-arrow-left-s-fill:before {
+    content: "î©”"
+}
+
+.ri-arrow-left-s-line:before {
+    content: "î©•"
+}
+
+.ri-arrow-left-up-fill:before {
+    content: "î©–"
+}
+
+.ri-arrow-left-up-line:before {
+    content: "î©—"
+}
+
+.ri-arrow-right-circle-fill:before {
+    content: "î©˜"
+}
+
+.ri-arrow-right-circle-line:before {
+    content: "î©™"
+}
+
+.ri-arrow-right-down-fill:before {
+    content: "î©š"
+}
+
+.ri-arrow-right-down-line:before {
+    content: "î©›"
+}
+
+.ri-arrow-right-fill:before {
+    content: "î©œ"
+}
+
+.ri-arrow-right-line:before {
+    content: "î©"
+}
+
+.ri-arrow-right-s-fill:before {
+    content: "î©ž"
+}
+
+.ri-arrow-right-s-line:before {
+    content: "î©Ÿ"
+}
+
+.ri-arrow-right-up-fill:before {
+    content: "î© "
+}
+
+.ri-arrow-right-up-line:before {
+    content: "î©¡"
+}
+
+.ri-arrow-up-circle-fill:before {
+    content: "î©¢"
+}
+
+.ri-arrow-up-circle-line:before {
+    content: "î©£"
+}
+
+.ri-arrow-up-fill:before {
+    content: "î©¤"
+}
+
+.ri-arrow-up-line:before {
+    content: "î©¥"
+}
+
+.ri-arrow-up-s-fill:before {
+    content: "î©¦"
+}
+
+.ri-arrow-up-s-line:before {
+    content: "î©§"
+}
+
+.ri-artboard-2-fill:before {
+    content: "î©¨"
+}
+
+.ri-artboard-2-line:before {
+    content: "î©©"
+}
+
+.ri-artboard-fill:before {
+    content: "î©ª"
+}
+
+.ri-artboard-line:before {
+    content: "î©«"
+}
+
+.ri-article-fill:before {
+    content: "î©¬"
+}
+
+.ri-article-line:before {
+    content: "î©­"
+}
+
+.ri-asterisk:before {
+    content: "î©®"
+}
+
+.ri-at-fill:before {
+    content: "î©¯"
+}
+
+.ri-at-line:before {
+    content: "î©°"
+}
+
+.ri-attachment-2:before {
+    content: "î©±"
+}
+
+.ri-attachment-fill:before {
+    content: "î©²"
+}
+
+.ri-attachment-line:before {
+    content: "î©³"
+}
+
+.ri-auction-fill:before {
+    content: "î©´"
+}
+
+.ri-auction-line:before {
+    content: "î©µ"
+}
+
+.ri-award-fill:before {
+    content: "î©¶"
+}
+
+.ri-award-line:before {
+    content: "î©·"
+}
+
+.ri-baidu-fill:before {
+    content: "î©¸"
+}
+
+.ri-baidu-line:before {
+    content: "î©¹"
+}
+
+.ri-ball-pen-fill:before {
+    content: "î©º"
+}
+
+.ri-ball-pen-line:before {
+    content: "î©»"
+}
+
+.ri-bank-card-2-fill:before {
+    content: "î©¼"
+}
+
+.ri-bank-card-2-line:before {
+    content: "î©½"
+}
+
+.ri-bank-card-fill:before {
+    content: "î©¾"
+}
+
+.ri-bank-card-line:before {
+    content: "î©¿"
+}
+
+.ri-bank-fill:before {
+    content: "îª€"
+}
+
+.ri-bank-line:before {
+    content: "îª"
+}
+
+.ri-bar-chart-2-fill:before {
+    content: "îª‚"
+}
+
+.ri-bar-chart-2-line:before {
+    content: "îªƒ"
+}
+
+.ri-bar-chart-box-fill:before {
+    content: "îª„"
+}
+
+.ri-bar-chart-box-line:before {
+    content: "îª…"
+}
+
+.ri-bar-chart-fill:before {
+    content: "îª†"
+}
+
+.ri-bar-chart-grouped-fill:before {
+    content: "îª‡"
+}
+
+.ri-bar-chart-grouped-line:before {
+    content: "îªˆ"
+}
+
+.ri-bar-chart-horizontal-fill:before {
+    content: "îª‰"
+}
+
+.ri-bar-chart-horizontal-line:before {
+    content: "îªŠ"
+}
+
+.ri-bar-chart-line:before {
+    content: "îª‹"
+}
+
+.ri-barcode-box-fill:before {
+    content: "îªŒ"
+}
+
+.ri-barcode-box-line:before {
+    content: "îª"
+}
+
+.ri-barcode-fill:before {
+    content: "îªŽ"
+}
+
+.ri-barcode-line:before {
+    content: "îª"
+}
+
+.ri-barricade-fill:before {
+    content: "îª"
+}
+
+.ri-barricade-line:before {
+    content: "îª‘"
+}
+
+.ri-base-station-fill:before {
+    content: "îª’"
+}
+
+.ri-base-station-line:before {
+    content: "îª“"
+}
+
+.ri-battery-2-charge-fill:before {
+    content: "îª”"
+}
+
+.ri-battery-2-charge-line:before {
+    content: "îª•"
+}
+
+.ri-battery-2-fill:before {
+    content: "îª–"
+}
+
+.ri-battery-2-line:before {
+    content: "îª—"
+}
+
+.ri-battery-charge-fill:before {
+    content: "îª˜"
+}
+
+.ri-battery-charge-line:before {
+    content: "îª™"
+}
+
+.ri-battery-fill:before {
+    content: "îªš"
+}
+
+.ri-battery-line:before {
+    content: "îª›"
+}
+
+.ri-battery-low-fill:before {
+    content: "îªœ"
+}
+
+.ri-battery-low-line:before {
+    content: "îª"
+}
+
+.ri-behance-fill:before {
+    content: "îªž"
+}
+
+.ri-behance-line:before {
+    content: "îªŸ"
+}
+
+.ri-bike-fill:before {
+    content: "îª "
+}
+
+.ri-bike-line:before {
+    content: "îª¡"
+}
+
+.ri-bilibili-fill:before {
+    content: "îª¢"
+}
+
+.ri-bilibili-line:before {
+    content: "îª£"
+}
+
+.ri-bill-fill:before {
+    content: "îª¤"
+}
+
+.ri-bill-line:before {
+    content: "îª¥"
+}
+
+.ri-bit-coin-fill:before {
+    content: "îª¦"
+}
+
+.ri-bit-coin-line:before {
+    content: "îª§"
+}
+
+.ri-bluetooth-connect-fill:before {
+    content: "îª¨"
+}
+
+.ri-bluetooth-connect-line:before {
+    content: "îª©"
+}
+
+.ri-bluetooth-fill:before {
+    content: "îªª"
+}
+
+.ri-bluetooth-line:before {
+    content: "îª«"
+}
+
+.ri-blur-off-fill:before {
+    content: "îª¬"
+}
+
+.ri-blur-off-line:before {
+    content: "îª­"
+}
+
+.ri-bold:before {
+    content: "îª®"
+}
+
+.ri-book-2-fill:before {
+    content: "îª¯"
+}
+
+.ri-book-2-line:before {
+    content: "îª°"
+}
+
+.ri-book-3-fill:before {
+    content: "îª±"
+}
+
+.ri-book-3-line:before {
+    content: "îª²"
+}
+
+.ri-book-fill:before {
+    content: "îª³"
+}
+
+.ri-book-line:before {
+    content: "îª´"
+}
+
+.ri-book-mark-fill:before {
+    content: "îªµ"
+}
+
+.ri-book-mark-line:before {
+    content: "îª¶"
+}
+
+.ri-book-open-fill:before {
+    content: "îª·"
+}
+
+.ri-book-open-line:before {
+    content: "îª¸"
+}
+
+.ri-book-read-fill:before {
+    content: "îª¹"
+}
+
+.ri-book-read-line:before {
+    content: "îªº"
+}
+
+.ri-bookmark-2-fill:before {
+    content: "îª»"
+}
+
+.ri-bookmark-2-line:before {
+    content: "îª¼"
+}
+
+.ri-bookmark-3-fill:before {
+    content: "îª½"
+}
+
+.ri-bookmark-3-line:before {
+    content: "îª¾"
+}
+
+.ri-bookmark-fill:before {
+    content: "îª¿"
+}
+
+.ri-bookmark-line:before {
+    content: "î«€"
+}
+
+.ri-braces-fill:before {
+    content: "î«"
+}
+
+.ri-braces-line:before {
+    content: "î«‚"
+}
+
+.ri-brackets-fill:before {
+    content: "î«ƒ"
+}
+
+.ri-brackets-line:before {
+    content: "î«„"
+}
+
+.ri-briefcase-2-fill:before {
+    content: "î«…"
+}
+
+.ri-briefcase-2-line:before {
+    content: "î«†"
+}
+
+.ri-briefcase-3-fill:before {
+    content: "î«‡"
+}
+
+.ri-briefcase-3-line:before {
+    content: "î«ˆ"
+}
+
+.ri-briefcase-4-fill:before {
+    content: "î«‰"
+}
+
+.ri-briefcase-4-line:before {
+    content: "î«Š"
+}
+
+.ri-briefcase-5-fill:before {
+    content: "î«‹"
+}
+
+.ri-briefcase-5-line:before {
+    content: "î«Œ"
+}
+
+.ri-briefcase-fill:before {
+    content: "î«"
+}
+
+.ri-briefcase-line:before {
+    content: "î«Ž"
+}
+
+.ri-broadcast-fill:before {
+    content: "î«"
+}
+
+.ri-broadcast-line:before {
+    content: "î«"
+}
+
+.ri-brush-2-fill:before {
+    content: "î«‘"
+}
+
+.ri-brush-2-line:before {
+    content: "î«’"
+}
+
+.ri-brush-3-fill:before {
+    content: "î«“"
+}
+
+.ri-brush-3-line:before {
+    content: "î«”"
+}
+
+.ri-brush-4-fill:before {
+    content: "î«•"
+}
+
+.ri-brush-4-line:before {
+    content: "î«–"
+}
+
+.ri-brush-fill:before {
+    content: "î«—"
+}
+
+.ri-brush-line:before {
+    content: "î«˜"
+}
+
+.ri-bug-2-fill:before {
+    content: "î«™"
+}
+
+.ri-bug-2-line:before {
+    content: "î«š"
+}
+
+.ri-bug-fill:before {
+    content: "î«›"
+}
+
+.ri-bug-line:before {
+    content: "î«œ"
+}
+
+.ri-building-2-fill:before {
+    content: "î«"
+}
+
+.ri-building-2-line:before {
+    content: "î«ž"
+}
+
+.ri-building-3-fill:before {
+    content: "î«Ÿ"
+}
+
+.ri-building-3-line:before {
+    content: "î« "
+}
+
+.ri-building-4-fill:before {
+    content: "î«¡"
+}
+
+.ri-building-4-line:before {
+    content: "î«¢"
+}
+
+.ri-building-fill:before {
+    content: "î«£"
+}
+
+.ri-building-line:before {
+    content: "î«¤"
+}
+
+.ri-bus-2-fill:before {
+    content: "î«¥"
+}
+
+.ri-bus-2-line:before {
+    content: "î«¦"
+}
+
+.ri-bus-fill:before {
+    content: "î«§"
+}
+
+.ri-bus-line:before {
+    content: "î«¨"
+}
+
+.ri-calculator-fill:before {
+    content: "î«©"
+}
+
+.ri-calculator-line:before {
+    content: "î«ª"
+}
+
+.ri-calendar-2-fill:before {
+    content: "î««"
+}
+
+.ri-calendar-2-line:before {
+    content: "î«¬"
+}
+
+.ri-calendar-check-fill:before {
+    content: "î«­"
+}
+
+.ri-calendar-check-line:before {
+    content: "î«®"
+}
+
+.ri-calendar-event-fill:before {
+    content: "î«¯"
+}
+
+.ri-calendar-event-line:before {
+    content: "î«°"
+}
+
+.ri-calendar-fill:before {
+    content: "î«±"
+}
+
+.ri-calendar-line:before {
+    content: "î«²"
+}
+
+.ri-calendar-todo-fill:before {
+    content: "î«³"
+}
+
+.ri-calendar-todo-line:before {
+    content: "î«´"
+}
+
+.ri-camera-2-fill:before {
+    content: "î«µ"
+}
+
+.ri-camera-2-line:before {
+    content: "î«¶"
+}
+
+.ri-camera-3-fill:before {
+    content: "î«·"
+}
+
+.ri-camera-3-line:before {
+    content: "î«¸"
+}
+
+.ri-camera-fill:before {
+    content: "î«¹"
+}
+
+.ri-camera-lens-fill:before {
+    content: "î«º"
+}
+
+.ri-camera-lens-line:before {
+    content: "î«»"
+}
+
+.ri-camera-line:before {
+    content: "î«¼"
+}
+
+.ri-camera-off-fill:before {
+    content: "î«½"
+}
+
+.ri-camera-off-line:before {
+    content: "î«¾"
+}
+
+.ri-camera-switch-fill:before {
+    content: "î«¿"
+}
+
+.ri-camera-switch-line:before {
+    content: "î¬€"
+}
+
+.ri-car-fill:before {
+    content: "î¬"
+}
+
+.ri-car-line:before {
+    content: "î¬‚"
+}
+
+.ri-car-washing-fill:before {
+    content: "î¬ƒ"
+}
+
+.ri-car-washing-line:before {
+    content: "î¬„"
+}
+
+.ri-cast-fill:before {
+    content: "î¬…"
+}
+
+.ri-cast-line:before {
+    content: "î¬†"
+}
+
+.ri-cellphone-fill:before {
+    content: "î¬‡"
+}
+
+.ri-cellphone-line:before {
+    content: "î¬ˆ"
+}
+
+.ri-celsius-fill:before {
+    content: "î¬‰"
+}
+
+.ri-celsius-line:before {
+    content: "î¬Š"
+}
+
+.ri-charging-pile-2-fill:before {
+    content: "î¬‹"
+}
+
+.ri-charging-pile-2-line:before {
+    content: "î¬Œ"
+}
+
+.ri-charging-pile-fill:before {
+    content: "î¬"
+}
+
+.ri-charging-pile-line:before {
+    content: "î¬Ž"
+}
+
+.ri-chat-1-fill:before {
+    content: "î¬"
+}
+
+.ri-chat-1-line:before {
+    content: "î¬"
+}
+
+.ri-chat-2-fill:before {
+    content: "î¬‘"
+}
+
+.ri-chat-2-line:before {
+    content: "î¬’"
+}
+
+.ri-chat-3-fill:before {
+    content: "î¬“"
+}
+
+.ri-chat-3-line:before {
+    content: "î¬”"
+}
+
+.ri-chat-4-fill:before {
+    content: "î¬•"
+}
+
+.ri-chat-4-line:before {
+    content: "î¬–"
+}
+
+.ri-chat-check-fill:before {
+    content: "î¬—"
+}
+
+.ri-chat-check-line:before {
+    content: "î¬˜"
+}
+
+.ri-chat-delete-fill:before {
+    content: "î¬™"
+}
+
+.ri-chat-delete-line:before {
+    content: "î¬š"
+}
+
+.ri-chat-download-fill:before {
+    content: "î¬›"
+}
+
+.ri-chat-download-line:before {
+    content: "î¬œ"
+}
+
+.ri-chat-forward-fill:before {
+    content: "î¬"
+}
+
+.ri-chat-forward-line:before {
+    content: "î¬ž"
+}
+
+.ri-chat-heart-fill:before {
+    content: "î¬Ÿ"
+}
+
+.ri-chat-heart-line:before {
+    content: "î¬ "
+}
+
+.ri-chat-new-fill:before {
+    content: "î¬¡"
+}
+
+.ri-chat-new-line:before {
+    content: "î¬¢"
+}
+
+.ri-chat-off-fill:before {
+    content: "î¬£"
+}
+
+.ri-chat-off-line:before {
+    content: "î¬¤"
+}
+
+.ri-chat-settings-fill:before {
+    content: "î¬¥"
+}
+
+.ri-chat-settings-line:before {
+    content: "î¬¦"
+}
+
+.ri-chat-smile-2-fill:before {
+    content: "î¬§"
+}
+
+.ri-chat-smile-2-line:before {
+    content: "î¬¨"
+}
+
+.ri-chat-smile-3-fill:before {
+    content: "î¬©"
+}
+
+.ri-chat-smile-3-line:before {
+    content: "î¬ª"
+}
+
+.ri-chat-smile-fill:before {
+    content: "î¬«"
+}
+
+.ri-chat-smile-line:before {
+    content: "î¬¬"
+}
+
+.ri-chat-upload-fill:before {
+    content: "î¬­"
+}
+
+.ri-chat-upload-line:before {
+    content: "î¬®"
+}
+
+.ri-chat-voice-fill:before {
+    content: "î¬¯"
+}
+
+.ri-chat-voice-line:before {
+    content: "î¬°"
+}
+
+.ri-check-double-fill:before {
+    content: "î¬±"
+}
+
+.ri-check-double-line:before {
+    content: "î¬²"
+}
+
+.ri-check-fill:before {
+    content: "î¬³"
+}
+
+.ri-check-line:before {
+    content: "î¬´"
+}
+
+.ri-checkbox-blank-circle-fill:before {
+    content: "î¬µ"
+}
+
+.ri-checkbox-blank-circle-line:before {
+    content: "î¬¶"
+}
+
+.ri-checkbox-blank-fill:before {
+    content: "î¬·"
+}
+
+.ri-checkbox-blank-line:before {
+    content: "î¬¸"
+}
+
+.ri-checkbox-circle-fill:before {
+    content: "î¬¹"
+}
+
+.ri-checkbox-circle-line:before {
+    content: "î¬º"
+}
+
+.ri-checkbox-fill:before {
+    content: "î¬»"
+}
+
+.ri-checkbox-indeterminate-fill:before {
+    content: "î¬¼"
+}
+
+.ri-checkbox-indeterminate-line:before {
+    content: "î¬½"
+}
+
+.ri-checkbox-line:before {
+    content: "î¬¾"
+}
+
+.ri-checkbox-multiple-blank-fill:before {
+    content: "î¬¿"
+}
+
+.ri-checkbox-multiple-blank-line:before {
+    content: "î­€"
+}
+
+.ri-checkbox-multiple-fill:before {
+    content: "î­"
+}
+
+.ri-checkbox-multiple-line:before {
+    content: "î­‚"
+}
+
+.ri-china-railway-fill:before {
+    content: "î­ƒ"
+}
+
+.ri-china-railway-line:before {
+    content: "î­„"
+}
+
+.ri-chrome-fill:before {
+    content: "î­…"
+}
+
+.ri-chrome-line:before {
+    content: "î­†"
+}
+
+.ri-clapperboard-fill:before {
+    content: "î­‡"
+}
+
+.ri-clapperboard-line:before {
+    content: "î­ˆ"
+}
+
+.ri-clipboard-fill:before {
+    content: "î­‰"
+}
+
+.ri-clipboard-line:before {
+    content: "î­Š"
+}
+
+.ri-clockwise-2-fill:before {
+    content: "î­‹"
+}
+
+.ri-clockwise-2-line:before {
+    content: "î­Œ"
+}
+
+.ri-clockwise-fill:before {
+    content: "î­"
+}
+
+.ri-clockwise-line:before {
+    content: "î­Ž"
+}
+
+.ri-close-circle-fill:before {
+    content: "î­"
+}
+
+.ri-close-circle-line:before {
+    content: "î­"
+}
+
+.ri-close-fill:before {
+    content: "î­‘"
+}
+
+.ri-close-line:before {
+    content: "î­’"
+}
+
+.ri-cloud-fill:before {
+    content: "î­“"
+}
+
+.ri-cloud-line:before {
+    content: "î­”"
+}
+
+.ri-cloud-off-fill:before {
+    content: "î­•"
+}
+
+.ri-cloud-off-line:before {
+    content: "î­–"
+}
+
+.ri-cloud-windy-fill:before {
+    content: "î­—"
+}
+
+.ri-cloud-windy-line:before {
+    content: "î­˜"
+}
+
+.ri-cloudy-2-fill:before {
+    content: "î­™"
+}
+
+.ri-cloudy-2-line:before {
+    content: "î­š"
+}
+
+.ri-cloudy-fill:before {
+    content: "î­›"
+}
+
+.ri-cloudy-line:before {
+    content: "î­œ"
+}
+
+.ri-code-box-fill:before {
+    content: "î­"
+}
+
+.ri-code-box-line:before {
+    content: "î­ž"
+}
+
+.ri-code-fill:before {
+    content: "î­Ÿ"
+}
+
+.ri-code-line:before {
+    content: "î­ "
+}
+
+.ri-code-s-fill:before {
+    content: "î­¡"
+}
+
+.ri-code-s-line:before {
+    content: "î­¢"
+}
+
+.ri-code-s-slash-fill:before {
+    content: "î­£"
+}
+
+.ri-code-s-slash-line:before {
+    content: "î­¤"
+}
+
+.ri-code-view:before {
+    content: "î­¥"
+}
+
+.ri-codepen-fill:before {
+    content: "î­¦"
+}
+
+.ri-codepen-line:before {
+    content: "î­§"
+}
+
+.ri-command-fill:before {
+    content: "î­¨"
+}
+
+.ri-command-line:before {
+    content: "î­©"
+}
+
+.ri-community-fill:before {
+    content: "î­ª"
+}
+
+.ri-community-line:before {
+    content: "î­«"
+}
+
+.ri-compass-2-fill:before {
+    content: "î­¬"
+}
+
+.ri-compass-2-line:before {
+    content: "î­­"
+}
+
+.ri-compass-3-fill:before {
+    content: "î­®"
+}
+
+.ri-compass-3-line:before {
+    content: "î­¯"
+}
+
+.ri-compass-4-fill:before {
+    content: "î­°"
+}
+
+.ri-compass-4-line:before {
+    content: "î­±"
+}
+
+.ri-compass-discover-fill:before {
+    content: "î­²"
+}
+
+.ri-compass-discover-line:before {
+    content: "î­³"
+}
+
+.ri-compass-fill:before {
+    content: "î­´"
+}
+
+.ri-compass-line:before {
+    content: "î­µ"
+}
+
+.ri-compasses-2-fill:before {
+    content: "î­¶"
+}
+
+.ri-compasses-2-line:before {
+    content: "î­·"
+}
+
+.ri-compasses-fill:before {
+    content: "î­¸"
+}
+
+.ri-compasses-line:before {
+    content: "î­¹"
+}
+
+.ri-computer-fill:before {
+    content: "î­º"
+}
+
+.ri-computer-line:before {
+    content: "î­»"
+}
+
+.ri-contacts-book-2-fill:before {
+    content: "î­¼"
+}
+
+.ri-contacts-book-2-line:before {
+    content: "î­½"
+}
+
+.ri-contacts-book-fill:before {
+    content: "î­¾"
+}
+
+.ri-contacts-book-line:before {
+    content: "î­¿"
+}
+
+.ri-contacts-fill:before {
+    content: "î®€"
+}
+
+.ri-contacts-line:before {
+    content: "î®"
+}
+
+.ri-contrast-2-fill:before {
+    content: "î®‚"
+}
+
+.ri-contrast-2-line:before {
+    content: "î®ƒ"
+}
+
+.ri-contrast-drop-2-fill:before {
+    content: "î®„"
+}
+
+.ri-contrast-drop-2-line:before {
+    content: "î®…"
+}
+
+.ri-contrast-drop-fill:before {
+    content: "î®†"
+}
+
+.ri-contrast-drop-line:before {
+    content: "î®‡"
+}
+
+.ri-contrast-fill:before {
+    content: "î®ˆ"
+}
+
+.ri-contrast-line:before {
+    content: "î®‰"
+}
+
+.ri-copper-coin-fill:before {
+    content: "î®Š"
+}
+
+.ri-copper-coin-line:before {
+    content: "î®‹"
+}
+
+.ri-copper-diamond-fill:before {
+    content: "î®Œ"
+}
+
+.ri-copper-diamond-line:before {
+    content: "î®"
+}
+
+.ri-copyright-fill:before {
+    content: "î®Ž"
+}
+
+.ri-copyright-line:before {
+    content: "î®"
+}
+
+.ri-coreos-fill:before {
+    content: "î®"
+}
+
+.ri-coreos-line:before {
+    content: "î®‘"
+}
+
+.ri-coupon-2-fill:before {
+    content: "î®’"
+}
+
+.ri-coupon-2-line:before {
+    content: "î®“"
+}
+
+.ri-coupon-3-fill:before {
+    content: "î®”"
+}
+
+.ri-coupon-3-line:before {
+    content: "î®•"
+}
+
+.ri-coupon-4-fill:before {
+    content: "î®–"
+}
+
+.ri-coupon-4-line:before {
+    content: "î®—"
+}
+
+.ri-coupon-5-fill:before {
+    content: "î®˜"
+}
+
+.ri-coupon-5-line:before {
+    content: "î®™"
+}
+
+.ri-coupon-fill:before {
+    content: "î®š"
+}
+
+.ri-coupon-line:before {
+    content: "î®›"
+}
+
+.ri-cpu-fill:before {
+    content: "î®œ"
+}
+
+.ri-cpu-line:before {
+    content: "î®"
+}
+
+.ri-crop-2-fill:before {
+    content: "î®ž"
+}
+
+.ri-crop-2-line:before {
+    content: "î®Ÿ"
+}
+
+.ri-crop-fill:before {
+    content: "î® "
+}
+
+.ri-crop-line:before {
+    content: "î®¡"
+}
+
+.ri-css3-fill:before {
+    content: "î®¢"
+}
+
+.ri-css3-line:before {
+    content: "î®£"
+}
+
+.ri-cup-fill:before {
+    content: "î®¤"
+}
+
+.ri-cup-line:before {
+    content: "î®¥"
+}
+
+.ri-currency-fill:before {
+    content: "î®¦"
+}
+
+.ri-currency-line:before {
+    content: "î®§"
+}
+
+.ri-cursor-fill:before {
+    content: "î®¨"
+}
+
+.ri-cursor-line:before {
+    content: "î®©"
+}
+
+.ri-customer-service-2-fill:before {
+    content: "î®ª"
+}
+
+.ri-customer-service-2-line:before {
+    content: "î®«"
+}
+
+.ri-customer-service-fill:before {
+    content: "î®¬"
+}
+
+.ri-customer-service-line:before {
+    content: "î®­"
+}
+
+.ri-dashboard-fill:before {
+    content: "î®®"
+}
+
+.ri-dashboard-line:before {
+    content: "î®¯"
+}
+
+.ri-database-2-fill:before {
+    content: "î®°"
+}
+
+.ri-database-2-line:before {
+    content: "î®±"
+}
+
+.ri-database-fill:before {
+    content: "î®²"
+}
+
+.ri-database-line:before {
+    content: "î®³"
+}
+
+.ri-delete-back-2-fill:before {
+    content: "î®´"
+}
+
+.ri-delete-back-2-line:before {
+    content: "î®µ"
+}
+
+.ri-delete-back-fill:before {
+    content: "î®¶"
+}
+
+.ri-delete-back-line:before {
+    content: "î®·"
+}
+
+.ri-delete-bin-2-fill:before {
+    content: "î®¸"
+}
+
+.ri-delete-bin-2-line:before {
+    content: "î®¹"
+}
+
+.ri-delete-bin-3-fill:before {
+    content: "î®º"
+}
+
+.ri-delete-bin-3-line:before {
+    content: "î®»"
+}
+
+.ri-delete-bin-4-fill:before {
+    content: "î®¼"
+}
+
+.ri-delete-bin-4-line:before {
+    content: "î®½"
+}
+
+.ri-delete-bin-5-fill:before {
+    content: "î®¾"
+}
+
+.ri-delete-bin-5-line:before {
+    content: "î®¿"
+}
+
+.ri-delete-bin-6-fill:before {
+    content: "î¯€"
+}
+
+.ri-delete-bin-6-line:before {
+    content: "î¯"
+}
+
+.ri-delete-bin-7-fill:before {
+    content: "î¯‚"
+}
+
+.ri-delete-bin-7-line:before {
+    content: "î¯ƒ"
+}
+
+.ri-delete-bin-fill:before {
+    content: "î¯„"
+}
+
+.ri-delete-bin-line:before {
+    content: "î¯…"
+}
+
+.ri-device-fill:before {
+    content: "î¯†"
+}
+
+.ri-device-line:before {
+    content: "î¯‡"
+}
+
+.ri-dingding-fill:before {
+    content: "î¯ˆ"
+}
+
+.ri-dingding-line:before {
+    content: "î¯‰"
+}
+
+.ri-direction-fill:before {
+    content: "î¯Š"
+}
+
+.ri-direction-line:before {
+    content: "î¯‹"
+}
+
+.ri-disc-fill:before {
+    content: "î¯Œ"
+}
+
+.ri-disc-line:before {
+    content: "î¯"
+}
+
+.ri-discord-fill:before {
+    content: "î¯Ž"
+}
+
+.ri-discord-line:before {
+    content: "î¯"
+}
+
+.ri-discuss-fill:before {
+    content: "î¯"
+}
+
+.ri-discuss-line:before {
+    content: "î¯‘"
+}
+
+.ri-divide-fill:before {
+    content: "î¯’"
+}
+
+.ri-divide-line:before {
+    content: "î¯“"
+}
+
+.ri-door-lock-box-fill:before {
+    content: "î¯”"
+}
+
+.ri-door-lock-box-line:before {
+    content: "î¯•"
+}
+
+.ri-door-lock-fill:before {
+    content: "î¯–"
+}
+
+.ri-door-lock-line:before {
+    content: "î¯—"
+}
+
+.ri-douban-fill:before {
+    content: "î¯˜"
+}
+
+.ri-douban-line:before {
+    content: "î¯™"
+}
+
+.ri-double-quotes-l:before {
+    content: "î¯š"
+}
+
+.ri-double-quotes-r:before {
+    content: "î¯›"
+}
+
+.ri-download-2-fill:before {
+    content: "î¯œ"
+}
+
+.ri-download-2-line:before {
+    content: "î¯"
+}
+
+.ri-download-cloud-2-fill:before {
+    content: "î¯ž"
+}
+
+.ri-download-cloud-2-line:before {
+    content: "î¯Ÿ"
+}
+
+.ri-download-cloud-fill:before {
+    content: "î¯ "
+}
+
+.ri-download-cloud-line:before {
+    content: "î¯¡"
+}
+
+.ri-download-fill:before {
+    content: "î¯¢"
+}
+
+.ri-download-line:before {
+    content: "î¯£"
+}
+
+.ri-drag-move-2-fill:before {
+    content: "î¯¤"
+}
+
+.ri-drag-move-2-line:before {
+    content: "î¯¥"
+}
+
+.ri-drag-move-fill:before {
+    content: "î¯¦"
+}
+
+.ri-drag-move-line:before {
+    content: "î¯§"
+}
+
+.ri-dribbble-fill:before {
+    content: "î¯¨"
+}
+
+.ri-dribbble-line:before {
+    content: "î¯©"
+}
+
+.ri-drive-fill:before {
+    content: "î¯ª"
+}
+
+.ri-drive-line:before {
+    content: "î¯«"
+}
+
+.ri-drizzle-fill:before {
+    content: "î¯¬"
+}
+
+.ri-drizzle-line:before {
+    content: "î¯­"
+}
+
+.ri-drop-fill:before {
+    content: "î¯®"
+}
+
+.ri-drop-line:before {
+    content: "î¯¯"
+}
+
+.ri-dropbox-fill:before {
+    content: "î¯°"
+}
+
+.ri-dropbox-line:before {
+    content: "î¯±"
+}
+
+.ri-dv-fill:before {
+    content: "î¯²"
+}
+
+.ri-dv-line:before {
+    content: "î¯³"
+}
+
+.ri-dvd-fill:before {
+    content: "î¯´"
+}
+
+.ri-dvd-line:before {
+    content: "î¯µ"
+}
+
+.ri-e-bike-2-fill:before {
+    content: "î¯¶"
+}
+
+.ri-e-bike-2-line:before {
+    content: "î¯·"
+}
+
+.ri-e-bike-fill:before {
+    content: "î¯¸"
+}
+
+.ri-e-bike-line:before {
+    content: "î¯¹"
+}
+
+.ri-earth-fill:before {
+    content: "î¯º"
+}
+
+.ri-earth-line:before {
+    content: "î¯»"
+}
+
+.ri-edge-fill:before {
+    content: "î¯¼"
+}
+
+.ri-edge-line:before {
+    content: "î¯½"
+}
+
+.ri-edit-2-fill:before {
+    content: "î¯¾"
+}
+
+.ri-edit-2-line:before {
+    content: "î¯¿"
+}
+
+.ri-edit-box-fill:before {
+    content: "î°€"
+}
+
+.ri-edit-box-line:before {
+    content: "î°"
+}
+
+.ri-edit-circle-fill:before {
+    content: "î°‚"
+}
+
+.ri-edit-circle-line:before {
+    content: "î°ƒ"
+}
+
+.ri-edit-fill:before {
+    content: "î°„"
+}
+
+.ri-edit-line:before {
+    content: "î°…"
+}
+
+.ri-eject-fill:before {
+    content: "î°†"
+}
+
+.ri-eject-line:before {
+    content: "î°‡"
+}
+
+.ri-emotion-2-fill:before {
+    content: "î°ˆ"
+}
+
+.ri-emotion-2-line:before {
+    content: "î°‰"
+}
+
+.ri-emotion-fill:before {
+    content: "î°Š"
+}
+
+.ri-emotion-happy-fill:before {
+    content: "î°‹"
+}
+
+.ri-emotion-happy-line:before {
+    content: "î°Œ"
+}
+
+.ri-emotion-line:before {
+    content: "î°"
+}
+
+.ri-emotion-normal-fill:before {
+    content: "î°Ž"
+}
+
+.ri-emotion-normal-line:before {
+    content: "î°"
+}
+
+.ri-emotion-unhappy-fill:before {
+    content: "î°"
+}
+
+.ri-emotion-unhappy-line:before {
+    content: "î°‘"
+}
+
+.ri-emphasis:before {
+    content: "î°’"
+}
+
+.ri-equalizer-fill:before {
+    content: "î°“"
+}
+
+.ri-equalizer-line:before {
+    content: "î°”"
+}
+
+.ri-eraser-fill:before {
+    content: "î°•"
+}
+
+.ri-eraser-line:before {
+    content: "î°–"
+}
+
+.ri-error-warning-fill:before {
+    content: "î°—"
+}
+
+.ri-error-warning-line:before {
+    content: "î°˜"
+}
+
+.ri-evernote-fill:before {
+    content: "î°™"
+}
+
+.ri-evernote-line:before {
+    content: "î°š"
+}
+
+.ri-exchange-box-fill:before {
+    content: "î°›"
+}
+
+.ri-exchange-box-line:before {
+    content: "î°œ"
+}
+
+.ri-exchange-cny-fill:before {
+    content: "î°"
+}
+
+.ri-exchange-cny-line:before {
+    content: "î°ž"
+}
+
+.ri-exchange-dollar-fill:before {
+    content: "î°Ÿ"
+}
+
+.ri-exchange-dollar-line:before {
+    content: "î° "
+}
+
+.ri-exchange-fill:before {
+    content: "î°¡"
+}
+
+.ri-exchange-funds-fill:before {
+    content: "î°¢"
+}
+
+.ri-exchange-funds-line:before {
+    content: "î°£"
+}
+
+.ri-exchange-line:before {
+    content: "î°¤"
+}
+
+.ri-external-link-fill:before {
+    content: "î°¥"
+}
+
+.ri-external-link-line:before {
+    content: "î°¦"
+}
+
+.ri-eye-close-fill:before {
+    content: "î°§"
+}
+
+.ri-eye-close-line:before {
+    content: "î°¨"
+}
+
+.ri-eye-fill:before {
+    content: "î°©"
+}
+
+.ri-eye-line:before {
+    content: "î°ª"
+}
+
+.ri-eye-off-fill:before {
+    content: "î°«"
+}
+
+.ri-eye-off-line:before {
+    content: "î°¬"
+}
+
+.ri-facebook-box-fill:before {
+    content: "î°­"
+}
+
+.ri-facebook-box-line:before {
+    content: "î°®"
+}
+
+.ri-facebook-circle-fill:before {
+    content: "î°¯"
+}
+
+.ri-facebook-circle-line:before {
+    content: "î°°"
+}
+
+.ri-facebook-fill:before {
+    content: "î°±"
+}
+
+.ri-facebook-line:before {
+    content: "î°²"
+}
+
+.ri-fahrenheit-fill:before {
+    content: "î°³"
+}
+
+.ri-fahrenheit-line:before {
+    content: "î°´"
+}
+
+.ri-feedback-fill:before {
+    content: "î°µ"
+}
+
+.ri-feedback-line:before {
+    content: "î°¶"
+}
+
+.ri-file-2-fill:before {
+    content: "î°·"
+}
+
+.ri-file-2-line:before {
+    content: "î°¸"
+}
+
+.ri-file-3-fill:before {
+    content: "î°¹"
+}
+
+.ri-file-3-line:before {
+    content: "î°º"
+}
+
+.ri-file-4-fill:before {
+    content: "î°»"
+}
+
+.ri-file-4-line:before {
+    content: "î°¼"
+}
+
+.ri-file-add-fill:before {
+    content: "î°½"
+}
+
+.ri-file-add-line:before {
+    content: "î°¾"
+}
+
+.ri-file-chart-2-fill:before {
+    content: "î°¿"
+}
+
+.ri-file-chart-2-line:before {
+    content: "î±€"
+}
+
+.ri-file-chart-fill:before {
+    content: "î±"
+}
+
+.ri-file-chart-line:before {
+    content: "î±‚"
+}
+
+.ri-file-code-fill:before {
+    content: "î±ƒ"
+}
+
+.ri-file-code-line:before {
+    content: "î±„"
+}
+
+.ri-file-copy-2-fill:before {
+    content: "î±…"
+}
+
+.ri-file-copy-2-line:before {
+    content: "î±†"
+}
+
+.ri-file-copy-fill:before {
+    content: "î±‡"
+}
+
+.ri-file-copy-line:before {
+    content: "î±ˆ"
+}
+
+.ri-file-damage-fill:before {
+    content: "î±‰"
+}
+
+.ri-file-damage-line:before {
+    content: "î±Š"
+}
+
+.ri-file-download-fill:before {
+    content: "î±‹"
+}
+
+.ri-file-download-line:before {
+    content: "î±Œ"
+}
+
+.ri-file-edit-fill:before {
+    content: "î±"
+}
+
+.ri-file-edit-line:before {
+    content: "î±Ž"
+}
+
+.ri-file-excel-2-fill:before {
+    content: "î±"
+}
+
+.ri-file-excel-2-line:before {
+    content: "î±"
+}
+
+.ri-file-excel-fill:before {
+    content: "î±‘"
+}
+
+.ri-file-excel-line:before {
+    content: "î±’"
+}
+
+.ri-file-fill:before {
+    content: "î±“"
+}
+
+.ri-file-forbid-fill:before {
+    content: "î±”"
+}
+
+.ri-file-forbid-line:before {
+    content: "î±•"
+}
+
+.ri-file-info-fill:before {
+    content: "î±–"
+}
+
+.ri-file-info-line:before {
+    content: "î±—"
+}
+
+.ri-file-line:before {
+    content: "î±˜"
+}
+
+.ri-file-list-2-fill:before {
+    content: "î±™"
+}
+
+.ri-file-list-2-line:before {
+    content: "î±š"
+}
+
+.ri-file-list-3-fill:before {
+    content: "î±›"
+}
+
+.ri-file-list-3-line:before {
+    content: "î±œ"
+}
+
+.ri-file-list-fill:before {
+    content: "î±"
+}
+
+.ri-file-list-line:before {
+    content: "î±ž"
+}
+
+.ri-file-lock-fill:before {
+    content: "î±Ÿ"
+}
+
+.ri-file-lock-line:before {
+    content: "î± "
+}
+
+.ri-file-mark-fill:before {
+    content: "î±¡"
+}
+
+.ri-file-mark-line:before {
+    content: "î±¢"
+}
+
+.ri-file-music-fill:before {
+    content: "î±£"
+}
+
+.ri-file-music-line:before {
+    content: "î±¤"
+}
+
+.ri-file-paper-fill:before {
+    content: "î±¥"
+}
+
+.ri-file-paper-line:before {
+    content: "î±¦"
+}
+
+.ri-file-pdf-fill:before {
+    content: "î±§"
+}
+
+.ri-file-pdf-line:before {
+    content: "î±¨"
+}
+
+.ri-file-ppt-2-fill:before {
+    content: "î±©"
+}
+
+.ri-file-ppt-2-line:before {
+    content: "î±ª"
+}
+
+.ri-file-ppt-fill:before {
+    content: "î±«"
+}
+
+.ri-file-ppt-line:before {
+    content: "î±¬"
+}
+
+.ri-file-reduce-fill:before {
+    content: "î±­"
+}
+
+.ri-file-reduce-line:before {
+    content: "î±®"
+}
+
+.ri-file-search-fill:before {
+    content: "î±¯"
+}
+
+.ri-file-search-line:before {
+    content: "î±°"
+}
+
+.ri-file-settings-fill:before {
+    content: "î±±"
+}
+
+.ri-file-settings-line:before {
+    content: "î±²"
+}
+
+.ri-file-shield-2-fill:before {
+    content: "î±³"
+}
+
+.ri-file-shield-2-line:before {
+    content: "î±´"
+}
+
+.ri-file-shield-fill:before {
+    content: "î±µ"
+}
+
+.ri-file-shield-line:before {
+    content: "î±¶"
+}
+
+.ri-file-shred-fill:before {
+    content: "î±·"
+}
+
+.ri-file-shred-line:before {
+    content: "î±¸"
+}
+
+.ri-file-text-fill:before {
+    content: "î±¹"
+}
+
+.ri-file-text-line:before {
+    content: "î±º"
+}
+
+.ri-file-transfer-fill:before {
+    content: "î±»"
+}
+
+.ri-file-transfer-line:before {
+    content: "î±¼"
+}
+
+.ri-file-unknow-fill:before {
+    content: "î±½"
+}
+
+.ri-file-unknow-line:before {
+    content: "î±¾"
+}
+
+.ri-file-upload-fill:before {
+    content: "î±¿"
+}
+
+.ri-file-upload-line:before {
+    content: "î²€"
+}
+
+.ri-file-user-fill:before {
+    content: "î²"
+}
+
+.ri-file-user-line:before {
+    content: "î²‚"
+}
+
+.ri-file-warning-fill:before {
+    content: "î²ƒ"
+}
+
+.ri-file-warning-line:before {
+    content: "î²„"
+}
+
+.ri-file-word-2-fill:before {
+    content: "î²…"
+}
+
+.ri-file-word-2-line:before {
+    content: "î²†"
+}
+
+.ri-file-word-fill:before {
+    content: "î²‡"
+}
+
+.ri-file-word-line:before {
+    content: "î²ˆ"
+}
+
+.ri-file-zip-fill:before {
+    content: "î²‰"
+}
+
+.ri-file-zip-line:before {
+    content: "î²Š"
+}
+
+.ri-film-fill:before {
+    content: "î²‹"
+}
+
+.ri-film-line:before {
+    content: "î²Œ"
+}
+
+.ri-filter-2-fill:before {
+    content: "î²"
+}
+
+.ri-filter-2-line:before {
+    content: "î²Ž"
+}
+
+.ri-filter-3-fill:before {
+    content: "î²"
+}
+
+.ri-filter-3-line:before {
+    content: "î²"
+}
+
+.ri-filter-fill:before {
+    content: "î²‘"
+}
+
+.ri-filter-line:before {
+    content: "î²’"
+}
+
+.ri-find-replace-fill:before {
+    content: "î²“"
+}
+
+.ri-find-replace-line:before {
+    content: "î²”"
+}
+
+.ri-fingerprint-2-fill:before {
+    content: "î²•"
+}
+
+.ri-fingerprint-2-line:before {
+    content: "î²–"
+}
+
+.ri-fingerprint-fill:before {
+    content: "î²—"
+}
+
+.ri-fingerprint-line:before {
+    content: "î²˜"
+}
+
+.ri-fire-fill:before {
+    content: "î²™"
+}
+
+.ri-fire-line:before {
+    content: "î²š"
+}
+
+.ri-firefox-fill:before {
+    content: "î²›"
+}
+
+.ri-firefox-line:before {
+    content: "î²œ"
+}
+
+.ri-flag-2-fill:before {
+    content: "î²"
+}
+
+.ri-flag-2-line:before {
+    content: "î²ž"
+}
+
+.ri-flag-fill:before {
+    content: "î²Ÿ"
+}
+
+.ri-flag-line:before {
+    content: "î² "
+}
+
+.ri-flashlight-fill:before {
+    content: "î²¡"
+}
+
+.ri-flashlight-line:before {
+    content: "î²¢"
+}
+
+.ri-flight-land-fill:before {
+    content: "î²£"
+}
+
+.ri-flight-land-line:before {
+    content: "î²¤"
+}
+
+.ri-flight-takeoff-fill:before {
+    content: "î²¥"
+}
+
+.ri-flight-takeoff-line:before {
+    content: "î²¦"
+}
+
+.ri-focus-2-fill:before {
+    content: "î²§"
+}
+
+.ri-focus-2-line:before {
+    content: "î²¨"
+}
+
+.ri-focus-fill:before {
+    content: "î²©"
+}
+
+.ri-focus-line:before {
+    content: "î²ª"
+}
+
+.ri-foggy-fill:before {
+    content: "î²«"
+}
+
+.ri-foggy-line:before {
+    content: "î²¬"
+}
+
+.ri-folder-2-fill:before {
+    content: "î²­"
+}
+
+.ri-folder-2-line:before {
+    content: "î²®"
+}
+
+.ri-folder-3-fill:before {
+    content: "î²¯"
+}
+
+.ri-folder-3-line:before {
+    content: "î²°"
+}
+
+.ri-folder-4-fill:before {
+    content: "î²±"
+}
+
+.ri-folder-4-line:before {
+    content: "î²²"
+}
+
+.ri-folder-5-fill:before {
+    content: "î²³"
+}
+
+.ri-folder-5-line:before {
+    content: "î²´"
+}
+
+.ri-folder-add-fill:before {
+    content: "î²µ"
+}
+
+.ri-folder-add-line:before {
+    content: "î²¶"
+}
+
+.ri-folder-chart-2-fill:before {
+    content: "î²·"
+}
+
+.ri-folder-chart-2-line:before {
+    content: "î²¸"
+}
+
+.ri-folder-chart-fill:before {
+    content: "î²¹"
+}
+
+.ri-folder-chart-line:before {
+    content: "î²º"
+}
+
+.ri-folder-download-fill:before {
+    content: "î²»"
+}
+
+.ri-folder-download-line:before {
+    content: "î²¼"
+}
+
+.ri-folder-fill:before {
+    content: "î²½"
+}
+
+.ri-folder-forbid-fill:before {
+    content: "î²¾"
+}
+
+.ri-folder-forbid-line:before {
+    content: "î²¿"
+}
+
+.ri-folder-info-fill:before {
+    content: "î³€"
+}
+
+.ri-folder-info-line:before {
+    content: "î³"
+}
+
+.ri-folder-line:before {
+    content: "î³‚"
+}
+
+.ri-folder-lock-fill:before {
+    content: "î³ƒ"
+}
+
+.ri-folder-lock-line:before {
+    content: "î³„"
+}
+
+.ri-folder-music-fill:before {
+    content: "î³…"
+}
+
+.ri-folder-music-line:before {
+    content: "î³†"
+}
+
+.ri-folder-open-fill:before {
+    content: "î³‡"
+}
+
+.ri-folder-open-line:before {
+    content: "î³ˆ"
+}
+
+.ri-folder-received-fill:before {
+    content: "î³‰"
+}
+
+.ri-folder-received-line:before {
+    content: "î³Š"
+}
+
+.ri-folder-reduce-fill:before {
+    content: "î³‹"
+}
+
+.ri-folder-reduce-line:before {
+    content: "î³Œ"
+}
+
+.ri-folder-settings-fill:before {
+    content: "î³"
+}
+
+.ri-folder-settings-line:before {
+    content: "î³Ž"
+}
+
+.ri-folder-shared-fill:before {
+    content: "î³"
+}
+
+.ri-folder-shared-line:before {
+    content: "î³"
+}
+
+.ri-folder-shield-2-fill:before {
+    content: "î³‘"
+}
+
+.ri-folder-shield-2-line:before {
+    content: "î³’"
+}
+
+.ri-folder-shield-fill:before {
+    content: "î³“"
+}
+
+.ri-folder-shield-line:before {
+    content: "î³”"
+}
+
+.ri-folder-transfer-fill:before {
+    content: "î³•"
+}
+
+.ri-folder-transfer-line:before {
+    content: "î³–"
+}
+
+.ri-folder-unknow-fill:before {
+    content: "î³—"
+}
+
+.ri-folder-unknow-line:before {
+    content: "î³˜"
+}
+
+.ri-folder-upload-fill:before {
+    content: "î³™"
+}
+
+.ri-folder-upload-line:before {
+    content: "î³š"
+}
+
+.ri-folder-user-fill:before {
+    content: "î³›"
+}
+
+.ri-folder-user-line:before {
+    content: "î³œ"
+}
+
+.ri-folder-warning-fill:before {
+    content: "î³"
+}
+
+.ri-folder-warning-line:before {
+    content: "î³ž"
+}
+
+.ri-folders-fill:before {
+    content: "î³Ÿ"
+}
+
+.ri-folders-line:before {
+    content: "î³ "
+}
+
+.ri-font-color:before {
+    content: "î³¡"
+}
+
+.ri-font-size-2:before {
+    content: "î³¢"
+}
+
+.ri-font-size:before {
+    content: "î³£"
+}
+
+.ri-footprint-fill:before {
+    content: "î³¤"
+}
+
+.ri-footprint-line:before {
+    content: "î³¥"
+}
+
+.ri-forbid-2-fill:before {
+    content: "î³¦"
+}
+
+.ri-forbid-2-line:before {
+    content: "î³§"
+}
+
+.ri-forbid-fill:before {
+    content: "î³¨"
+}
+
+.ri-forbid-line:before {
+    content: "î³©"
+}
+
+.ri-format-clear:before {
+    content: "î³ª"
+}
+
+.ri-fullscreen-exit-fill:before {
+    content: "î³«"
+}
+
+.ri-fullscreen-exit-line:before {
+    content: "î³¬"
+}
+
+.ri-fullscreen-fill:before {
+    content: "î³­"
+}
+
+.ri-fullscreen-line:before {
+    content: "î³®"
+}
+
+.ri-function-fill:before {
+    content: "î³¯"
+}
+
+.ri-function-line:before {
+    content: "î³°"
+}
+
+.ri-functions:before {
+    content: "î³±"
+}
+
+.ri-funds-box-fill:before {
+    content: "î³²"
+}
+
+.ri-funds-box-line:before {
+    content: "î³³"
+}
+
+.ri-funds-fill:before {
+    content: "î³´"
+}
+
+.ri-funds-line:before {
+    content: "î³µ"
+}
+
+.ri-gallery-fill:before {
+    content: "î³¶"
+}
+
+.ri-gallery-line:before {
+    content: "î³·"
+}
+
+.ri-gas-station-fill:before {
+    content: "î³¸"
+}
+
+.ri-gas-station-line:before {
+    content: "î³¹"
+}
+
+.ri-genderless-fill:before {
+    content: "î³º"
+}
+
+.ri-genderless-line:before {
+    content: "î³»"
+}
+
+.ri-git-branch-fill:before {
+    content: "î³¼"
+}
+
+.ri-git-branch-line:before {
+    content: "î³½"
+}
+
+.ri-git-commit-fill:before {
+    content: "î³¾"
+}
+
+.ri-git-commit-line:before {
+    content: "î³¿"
+}
+
+.ri-git-merge-fill:before {
+    content: "î´€"
+}
+
+.ri-git-merge-line:before {
+    content: "î´"
+}
+
+.ri-git-pull-request-fill:before {
+    content: "î´‚"
+}
+
+.ri-git-pull-request-line:before {
+    content: "î´ƒ"
+}
+
+.ri-git-repository-commits-fill:before {
+    content: "î´„"
+}
+
+.ri-git-repository-commits-line:before {
+    content: "î´…"
+}
+
+.ri-git-repository-fill:before {
+    content: "î´†"
+}
+
+.ri-git-repository-line:before {
+    content: "î´‡"
+}
+
+.ri-git-repository-private-fill:before {
+    content: "î´ˆ"
+}
+
+.ri-git-repository-private-line:before {
+    content: "î´‰"
+}
+
+.ri-github-fill:before {
+    content: "î´Š"
+}
+
+.ri-github-line:before {
+    content: "î´‹"
+}
+
+.ri-gitlab-fill:before {
+    content: "î´Œ"
+}
+
+.ri-gitlab-line:before {
+    content: "î´"
+}
+
+.ri-global-fill:before {
+    content: "î´Ž"
+}
+
+.ri-global-line:before {
+    content: "î´"
+}
+
+.ri-globe-fill:before {
+    content: "î´"
+}
+
+.ri-globe-line:before {
+    content: "î´‘"
+}
+
+.ri-goblet-fill:before {
+    content: "î´’"
+}
+
+.ri-goblet-line:before {
+    content: "î´“"
+}
+
+.ri-google-fill:before {
+    content: "î´”"
+}
+
+.ri-google-line:before {
+    content: "î´•"
+}
+
+.ri-government-fill:before {
+    content: "î´–"
+}
+
+.ri-government-line:before {
+    content: "î´—"
+}
+
+.ri-gps-fill:before {
+    content: "î´˜"
+}
+
+.ri-gps-line:before {
+    content: "î´™"
+}
+
+.ri-gradienter-fill:before {
+    content: "î´š"
+}
+
+.ri-gradienter-line:before {
+    content: "î´›"
+}
+
+.ri-grid-fill:before {
+    content: "î´œ"
+}
+
+.ri-grid-line:before {
+    content: "î´"
+}
+
+.ri-group-2-fill:before {
+    content: "î´ž"
+}
+
+.ri-group-2-line:before {
+    content: "î´Ÿ"
+}
+
+.ri-group-fill:before {
+    content: "î´ "
+}
+
+.ri-group-line:before {
+    content: "î´¡"
+}
+
+.ri-guide-fill:before {
+    content: "î´¢"
+}
+
+.ri-guide-line:before {
+    content: "î´£"
+}
+
+.ri-hail-fill:before {
+    content: "î´¤"
+}
+
+.ri-hail-line:before {
+    content: "î´¥"
+}
+
+.ri-hammer-fill:before {
+    content: "î´¦"
+}
+
+.ri-hammer-line:before {
+    content: "î´§"
+}
+
+.ri-hard-drive-2-fill:before {
+    content: "î´¨"
+}
+
+.ri-hard-drive-2-line:before {
+    content: "î´©"
+}
+
+.ri-hard-drive-fill:before {
+    content: "î´ª"
+}
+
+.ri-hard-drive-line:before {
+    content: "î´«"
+}
+
+.ri-hashtag:before {
+    content: "î´¬"
+}
+
+.ri-haze-fill:before {
+    content: "î´­"
+}
+
+.ri-haze-line:before {
+    content: "î´®"
+}
+
+.ri-hd-fill:before {
+    content: "î´¯"
+}
+
+.ri-hd-line:before {
+    content: "î´°"
+}
+
+.ri-heading:before {
+    content: "î´±"
+}
+
+.ri-headphone-fill:before {
+    content: "î´²"
+}
+
+.ri-headphone-line:before {
+    content: "î´³"
+}
+
+.ri-heart-2-fill:before {
+    content: "î´´"
+}
+
+.ri-heart-2-line:before {
+    content: "î´µ"
+}
+
+.ri-heart-fill:before {
+    content: "î´¶"
+}
+
+.ri-heart-line:before {
+    content: "î´·"
+}
+
+.ri-heavy-showers-fill:before {
+    content: "î´¸"
+}
+
+.ri-heavy-showers-line:before {
+    content: "î´¹"
+}
+
+.ri-home-2-fill:before {
+    content: "î´º"
+}
+
+.ri-home-2-line:before {
+    content: "î´»"
+}
+
+.ri-home-3-fill:before {
+    content: "î´¼"
+}
+
+.ri-home-3-line:before {
+    content: "î´½"
+}
+
+.ri-home-4-fill:before {
+    content: "î´¾"
+}
+
+.ri-home-4-line:before {
+    content: "î´¿"
+}
+
+.ri-home-5-fill:before {
+    content: "îµ€"
+}
+
+.ri-home-5-line:before {
+    content: "îµ"
+}
+
+.ri-home-6-fill:before {
+    content: "îµ‚"
+}
+
+.ri-home-6-line:before {
+    content: "îµƒ"
+}
+
+.ri-home-7-fill:before {
+    content: "îµ„"
+}
+
+.ri-home-7-line:before {
+    content: "îµ…"
+}
+
+.ri-home-8-fill:before {
+    content: "îµ†"
+}
+
+.ri-home-8-line:before {
+    content: "îµ‡"
+}
+
+.ri-home-fill:before {
+    content: "îµˆ"
+}
+
+.ri-home-gear-fill:before {
+    content: "îµ‰"
+}
+
+.ri-home-gear-line:before {
+    content: "îµŠ"
+}
+
+.ri-home-heart-fill:before {
+    content: "îµ‹"
+}
+
+.ri-home-heart-line:before {
+    content: "îµŒ"
+}
+
+.ri-home-line:before {
+    content: "îµ"
+}
+
+.ri-home-smile-2-fill:before {
+    content: "îµŽ"
+}
+
+.ri-home-smile-2-line:before {
+    content: "îµ"
+}
+
+.ri-home-smile-fill:before {
+    content: "îµ"
+}
+
+.ri-home-smile-line:before {
+    content: "îµ‘"
+}
+
+.ri-home-wifi-fill:before {
+    content: "îµ’"
+}
+
+.ri-home-wifi-line:before {
+    content: "îµ“"
+}
+
+.ri-honour-fill:before {
+    content: "îµ”"
+}
+
+.ri-honour-line:before {
+    content: "îµ•"
+}
+
+.ri-hospital-fill:before {
+    content: "îµ–"
+}
+
+.ri-hospital-line:before {
+    content: "îµ—"
+}
+
+.ri-hotel-bed-fill:before {
+    content: "îµ˜"
+}
+
+.ri-hotel-bed-line:before {
+    content: "îµ™"
+}
+
+.ri-hotel-fill:before {
+    content: "îµš"
+}
+
+.ri-hotel-line:before {
+    content: "îµ›"
+}
+
+.ri-hq-fill:before {
+    content: "îµœ"
+}
+
+.ri-hq-line:before {
+    content: "îµ"
+}
+
+.ri-html5-fill:before {
+    content: "îµž"
+}
+
+.ri-html5-line:before {
+    content: "îµŸ"
+}
+
+.ri-ie-fill:before {
+    content: "îµ "
+}
+
+.ri-ie-line:before {
+    content: "îµ¡"
+}
+
+.ri-image-2-fill:before {
+    content: "îµ¢"
+}
+
+.ri-image-2-line:before {
+    content: "îµ£"
+}
+
+.ri-image-fill:before {
+    content: "îµ¤"
+}
+
+.ri-image-line:before {
+    content: "îµ¥"
+}
+
+.ri-inbox-archive-fill:before {
+    content: "îµ¦"
+}
+
+.ri-inbox-archive-line:before {
+    content: "îµ§"
+}
+
+.ri-inbox-fill:before {
+    content: "îµ¨"
+}
+
+.ri-inbox-line:before {
+    content: "îµ©"
+}
+
+.ri-increase-decrease-fill:before {
+    content: "îµª"
+}
+
+.ri-increase-decrease-line:before {
+    content: "îµ«"
+}
+
+.ri-indent-decrease:before {
+    content: "îµ¬"
+}
+
+.ri-indent-increase:before {
+    content: "îµ­"
+}
+
+.ri-indeterminate-circle-fill:before {
+    content: "îµ®"
+}
+
+.ri-indeterminate-circle-line:before {
+    content: "îµ¯"
+}
+
+.ri-information-fill:before {
+    content: "îµ°"
+}
+
+.ri-information-line:before {
+    content: "îµ±"
+}
+
+.ri-input-method-fill:before {
+    content: "îµ²"
+}
+
+.ri-input-method-line:before {
+    content: "îµ³"
+}
+
+.ri-instagram-fill:before {
+    content: "îµ´"
+}
+
+.ri-instagram-line:before {
+    content: "îµµ"
+}
+
+.ri-invision-fill:before {
+    content: "îµ¶"
+}
+
+.ri-invision-line:before {
+    content: "îµ·"
+}
+
+.ri-italic:before {
+    content: "îµ¸"
+}
+
+.ri-kakao-talk-fill:before {
+    content: "îµ¹"
+}
+
+.ri-kakao-talk-line:before {
+    content: "îµº"
+}
+
+.ri-key-2-fill:before {
+    content: "îµ»"
+}
+
+.ri-key-2-line:before {
+    content: "îµ¼"
+}
+
+.ri-key-fill:before {
+    content: "îµ½"
+}
+
+.ri-key-line:before {
+    content: "îµ¾"
+}
+
+.ri-keyboard-box-fill:before {
+    content: "îµ¿"
+}
+
+.ri-keyboard-box-line:before {
+    content: "î¶€"
+}
+
+.ri-keyboard-fill:before {
+    content: "î¶"
+}
+
+.ri-keyboard-line:before {
+    content: "î¶‚"
+}
+
+.ri-keynote-fill:before {
+    content: "î¶ƒ"
+}
+
+.ri-keynote-line:before {
+    content: "î¶„"
+}
+
+.ri-landscape-fill:before {
+    content: "î¶…"
+}
+
+.ri-landscape-line:before {
+    content: "î¶†"
+}
+
+.ri-layout-column-fill:before {
+    content: "î¶‡"
+}
+
+.ri-layout-column-line:before {
+    content: "î¶ˆ"
+}
+
+.ri-layout-fill:before {
+    content: "î¶‰"
+}
+
+.ri-layout-line:before {
+    content: "î¶Š"
+}
+
+.ri-layout-row-fill:before {
+    content: "î¶‹"
+}
+
+.ri-layout-row-line:before {
+    content: "î¶Œ"
+}
+
+.ri-lightbulb-fill:before {
+    content: "î¶"
+}
+
+.ri-lightbulb-flash-fill:before {
+    content: "î¶Ž"
+}
+
+.ri-lightbulb-flash-line:before {
+    content: "î¶"
+}
+
+.ri-lightbulb-line:before {
+    content: "î¶"
+}
+
+.ri-line-fill:before {
+    content: "î¶‘"
+}
+
+.ri-line-height:before {
+    content: "î¶’"
+}
+
+.ri-line-line:before {
+    content: "î¶“"
+}
+
+.ri-link-m:before {
+    content: "î¶”"
+}
+
+.ri-link-unlink-m:before {
+    content: "î¶•"
+}
+
+.ri-link-unlink:before {
+    content: "î¶–"
+}
+
+.ri-link:before {
+    content: "î¶—"
+}
+
+.ri-linkedin-box-fill:before {
+    content: "î¶˜"
+}
+
+.ri-linkedin-box-line:before {
+    content: "î¶™"
+}
+
+.ri-linkedin-fill:before {
+    content: "î¶š"
+}
+
+.ri-linkedin-line:before {
+    content: "î¶›"
+}
+
+.ri-links-fill:before {
+    content: "î¶œ"
+}
+
+.ri-links-line:before {
+    content: "î¶"
+}
+
+.ri-list-check-2:before {
+    content: "î¶ž"
+}
+
+.ri-list-check:before {
+    content: "î¶Ÿ"
+}
+
+.ri-list-ordered:before {
+    content: "î¶ "
+}
+
+.ri-list-settings-fill:before {
+    content: "î¶¡"
+}
+
+.ri-list-settings-line:before {
+    content: "î¶¢"
+}
+
+.ri-list-unordered:before {
+    content: "î¶£"
+}
+
+.ri-loader-2-fill:before {
+    content: "î¶¤"
+}
+
+.ri-loader-2-line:before {
+    content: "î¶¥"
+}
+
+.ri-loader-3-fill:before {
+    content: "î¶¦"
+}
+
+.ri-loader-3-line:before {
+    content: "î¶§"
+}
+
+.ri-loader-4-fill:before {
+    content: "î¶¨"
+}
+
+.ri-loader-4-line:before {
+    content: "î¶©"
+}
+
+.ri-loader-5-fill:before {
+    content: "î¶ª"
+}
+
+.ri-loader-5-line:before {
+    content: "î¶«"
+}
+
+.ri-loader-fill:before {
+    content: "î¶¬"
+}
+
+.ri-loader-line:before {
+    content: "î¶­"
+}
+
+.ri-lock-2-fill:before {
+    content: "î¶®"
+}
+
+.ri-lock-2-line:before {
+    content: "î¶¯"
+}
+
+.ri-lock-fill:before {
+    content: "î¶°"
+}
+
+.ri-lock-line:before {
+    content: "î¶±"
+}
+
+.ri-lock-password-fill:before {
+    content: "î¶²"
+}
+
+.ri-lock-password-line:before {
+    content: "î¶³"
+}
+
+.ri-lock-unlock-fill:before {
+    content: "î¶´"
+}
+
+.ri-lock-unlock-line:before {
+    content: "î¶µ"
+}
+
+.ri-login-box-fill:before {
+    content: "î¶¶"
+}
+
+.ri-login-box-line:before {
+    content: "î¶·"
+}
+
+.ri-login-circle-fill:before {
+    content: "î¶¸"
+}
+
+.ri-login-circle-line:before {
+    content: "î¶¹"
+}
+
+.ri-logout-box-fill:before {
+    content: "î¶º"
+}
+
+.ri-logout-box-line:before {
+    content: "î¶»"
+}
+
+.ri-logout-box-r-fill:before {
+    content: "î¶¼"
+}
+
+.ri-logout-box-r-line:before {
+    content: "î¶½"
+}
+
+.ri-logout-circle-fill:before {
+    content: "î¶¾"
+}
+
+.ri-logout-circle-line:before {
+    content: "î¶¿"
+}
+
+.ri-logout-circle-r-fill:before {
+    content: "î·€"
+}
+
+.ri-logout-circle-r-line:before {
+    content: "î·"
+}
+
+.ri-mac-fill:before {
+    content: "î·‚"
+}
+
+.ri-mac-line:before {
+    content: "î·ƒ"
+}
+
+.ri-macbook-fill:before {
+    content: "î·„"
+}
+
+.ri-macbook-line:before {
+    content: "î·…"
+}
+
+.ri-magic-fill:before {
+    content: "î·†"
+}
+
+.ri-magic-line:before {
+    content: "î·‡"
+}
+
+.ri-mail-add-fill:before {
+    content: "î·ˆ"
+}
+
+.ri-mail-add-line:before {
+    content: "î·‰"
+}
+
+.ri-mail-check-fill:before {
+    content: "î·Š"
+}
+
+.ri-mail-check-line:before {
+    content: "î·‹"
+}
+
+.ri-mail-close-fill:before {
+    content: "î·Œ"
+}
+
+.ri-mail-close-line:before {
+    content: "î·"
+}
+
+.ri-mail-download-fill:before {
+    content: "î·Ž"
+}
+
+.ri-mail-download-line:before {
+    content: "î·"
+}
+
+.ri-mail-fill:before {
+    content: "î·"
+}
+
+.ri-mail-forbid-fill:before {
+    content: "î·‘"
+}
+
+.ri-mail-forbid-line:before {
+    content: "î·’"
+}
+
+.ri-mail-line:before {
+    content: "î·“"
+}
+
+.ri-mail-lock-fill:before {
+    content: "î·”"
+}
+
+.ri-mail-lock-line:before {
+    content: "î·•"
+}
+
+.ri-mail-open-fill:before {
+    content: "î·–"
+}
+
+.ri-mail-open-line:before {
+    content: "î·—"
+}
+
+.ri-mail-send-fill:before {
+    content: "î·˜"
+}
+
+.ri-mail-send-line:before {
+    content: "î·™"
+}
+
+.ri-mail-settings-fill:before {
+    content: "î·š"
+}
+
+.ri-mail-settings-line:before {
+    content: "î·›"
+}
+
+.ri-mail-star-fill:before {
+    content: "î·œ"
+}
+
+.ri-mail-star-line:before {
+    content: "î·"
+}
+
+.ri-mail-unread-fill:before {
+    content: "î·ž"
+}
+
+.ri-mail-unread-line:before {
+    content: "î·Ÿ"
+}
+
+.ri-map-2-fill:before {
+    content: "î· "
+}
+
+.ri-map-2-line:before {
+    content: "î·¡"
+}
+
+.ri-map-fill:before {
+    content: "î·¢"
+}
+
+.ri-map-line:before {
+    content: "î·£"
+}
+
+.ri-map-pin-2-fill:before {
+    content: "î·¤"
+}
+
+.ri-map-pin-2-line:before {
+    content: "î·¥"
+}
+
+.ri-map-pin-3-fill:before {
+    content: "î·¦"
+}
+
+.ri-map-pin-3-line:before {
+    content: "î·§"
+}
+
+.ri-map-pin-4-fill:before {
+    content: "î·¨"
+}
+
+.ri-map-pin-4-line:before {
+    content: "î·©"
+}
+
+.ri-map-pin-5-fill:before {
+    content: "î·ª"
+}
+
+.ri-map-pin-5-line:before {
+    content: "î·«"
+}
+
+.ri-map-pin-add-fill:before {
+    content: "î·¬"
+}
+
+.ri-map-pin-add-line:before {
+    content: "î·­"
+}
+
+.ri-map-pin-fill:before {
+    content: "î·®"
+}
+
+.ri-map-pin-line:before {
+    content: "î·¯"
+}
+
+.ri-map-pin-range-fill:before {
+    content: "î·°"
+}
+
+.ri-map-pin-range-line:before {
+    content: "î·±"
+}
+
+.ri-map-pin-time-fill:before {
+    content: "î·²"
+}
+
+.ri-map-pin-time-line:before {
+    content: "î·³"
+}
+
+.ri-map-pin-user-fill:before {
+    content: "î·´"
+}
+
+.ri-map-pin-user-line:before {
+    content: "î·µ"
+}
+
+.ri-mark-pen-fill:before {
+    content: "î·¶"
+}
+
+.ri-mark-pen-line:before {
+    content: "î··"
+}
+
+.ri-markdown-fill:before {
+    content: "î·¸"
+}
+
+.ri-markdown-line:before {
+    content: "î·¹"
+}
+
+.ri-markup-fill:before {
+    content: "î·º"
+}
+
+.ri-markup-line:before {
+    content: "î·»"
+}
+
+.ri-mastercard-fill:before {
+    content: "î·¼"
+}
+
+.ri-mastercard-line:before {
+    content: "î·½"
+}
+
+.ri-mastodon-fill:before {
+    content: "î·¾"
+}
+
+.ri-mastodon-line:before {
+    content: "î·¿"
+}
+
+.ri-medium-fill:before {
+    content: "î¸€"
+}
+
+.ri-medium-line:before {
+    content: "î¸"
+}
+
+.ri-men-fill:before {
+    content: "î¸‚"
+}
+
+.ri-men-line:before {
+    content: "î¸ƒ"
+}
+
+.ri-menu-2-fill:before {
+    content: "î¸„"
+}
+
+.ri-menu-2-line:before {
+    content: "î¸…"
+}
+
+.ri-menu-3-fill:before {
+    content: "î¸†"
+}
+
+.ri-menu-3-line:before {
+    content: "î¸‡"
+}
+
+.ri-menu-fill:before {
+    content: "î¸ˆ"
+}
+
+.ri-menu-line:before {
+    content: "î¸‰"
+}
+
+.ri-message-2-fill:before {
+    content: "î¸Š"
+}
+
+.ri-message-2-line:before {
+    content: "î¸‹"
+}
+
+.ri-message-3-fill:before {
+    content: "î¸Œ"
+}
+
+.ri-message-3-line:before {
+    content: "î¸"
+}
+
+.ri-message-fill:before {
+    content: "î¸Ž"
+}
+
+.ri-message-line:before {
+    content: "î¸"
+}
+
+.ri-messenger-fill:before {
+    content: "î¸"
+}
+
+.ri-messenger-line:before {
+    content: "î¸‘"
+}
+
+.ri-mic-2-fill:before {
+    content: "î¸’"
+}
+
+.ri-mic-2-line:before {
+    content: "î¸“"
+}
+
+.ri-mic-fill:before {
+    content: "î¸”"
+}
+
+.ri-mic-line:before {
+    content: "î¸•"
+}
+
+.ri-mic-off-fill:before {
+    content: "î¸–"
+}
+
+.ri-mic-off-line:before {
+    content: "î¸—"
+}
+
+.ri-mini-program-fill:before {
+    content: "î¸˜"
+}
+
+.ri-mini-program-line:before {
+    content: "î¸™"
+}
+
+.ri-mist-fill:before {
+    content: "î¸š"
+}
+
+.ri-mist-line:before {
+    content: "î¸›"
+}
+
+.ri-money-cny-box-fill:before {
+    content: "î¸œ"
+}
+
+.ri-money-cny-box-line:before {
+    content: "î¸"
+}
+
+.ri-money-cny-circle-fill:before {
+    content: "î¸ž"
+}
+
+.ri-money-cny-circle-line:before {
+    content: "î¸Ÿ"
+}
+
+.ri-money-dollar-box-fill:before {
+    content: "î¸ "
+}
+
+.ri-money-dollar-box-line:before {
+    content: "î¸¡"
+}
+
+.ri-money-dollar-circle-fill:before {
+    content: "î¸¢"
+}
+
+.ri-money-dollar-circle-line:before {
+    content: "î¸£"
+}
+
+.ri-money-euro-box-fill:before {
+    content: "î¸¤"
+}
+
+.ri-money-euro-box-line:before {
+    content: "î¸¥"
+}
+
+.ri-money-euro-circle-fill:before {
+    content: "î¸¦"
+}
+
+.ri-money-euro-circle-line:before {
+    content: "î¸§"
+}
+
+.ri-money-pound-box-fill:before {
+    content: "î¸¨"
+}
+
+.ri-money-pound-box-line:before {
+    content: "î¸©"
+}
+
+.ri-money-pound-circle-fill:before {
+    content: "î¸ª"
+}
+
+.ri-money-pound-circle-line:before {
+    content: "î¸«"
+}
+
+.ri-moon-clear-fill:before {
+    content: "î¸¬"
+}
+
+.ri-moon-clear-line:before {
+    content: "î¸­"
+}
+
+.ri-moon-cloudy-fill:before {
+    content: "î¸®"
+}
+
+.ri-moon-cloudy-line:before {
+    content: "î¸¯"
+}
+
+.ri-moon-fill:before {
+    content: "î¸°"
+}
+
+.ri-moon-foggy-fill:before {
+    content: "î¸±"
+}
+
+.ri-moon-foggy-line:before {
+    content: "î¸²"
+}
+
+.ri-moon-line:before {
+    content: "î¸³"
+}
+
+.ri-more-2-fill:before {
+    content: "î¸´"
+}
+
+.ri-more-2-line:before {
+    content: "î¸µ"
+}
+
+.ri-more-fill:before {
+    content: "î¸¶"
+}
+
+.ri-more-line:before {
+    content: "î¸·"
+}
+
+.ri-motorbike-fill:before {
+    content: "î¸¸"
+}
+
+.ri-motorbike-line:before {
+    content: "î¸¹"
+}
+
+.ri-mouse-fill:before {
+    content: "î¸º"
+}
+
+.ri-mouse-line:before {
+    content: "î¸»"
+}
+
+.ri-movie-2-fill:before {
+    content: "î¸¼"
+}
+
+.ri-movie-2-line:before {
+    content: "î¸½"
+}
+
+.ri-movie-fill:before {
+    content: "î¸¾"
+}
+
+.ri-movie-line:before {
+    content: "î¸¿"
+}
+
+.ri-music-2-fill:before {
+    content: "î¹€"
+}
+
+.ri-music-2-line:before {
+    content: "î¹"
+}
+
+.ri-music-fill:before {
+    content: "î¹‚"
+}
+
+.ri-music-line:before {
+    content: "î¹ƒ"
+}
+
+.ri-mv-fill:before {
+    content: "î¹„"
+}
+
+.ri-mv-line:before {
+    content: "î¹…"
+}
+
+.ri-navigation-fill:before {
+    content: "î¹†"
+}
+
+.ri-navigation-line:before {
+    content: "î¹‡"
+}
+
+.ri-netease-cloud-music-fill:before {
+    content: "î¹ˆ"
+}
+
+.ri-netease-cloud-music-line:before {
+    content: "î¹‰"
+}
+
+.ri-netflix-fill:before {
+    content: "î¹Š"
+}
+
+.ri-netflix-line:before {
+    content: "î¹‹"
+}
+
+.ri-newspaper-fill:before {
+    content: "î¹Œ"
+}
+
+.ri-newspaper-line:before {
+    content: "î¹"
+}
+
+.ri-notification-2-fill:before {
+    content: "î¹Ž"
+}
+
+.ri-notification-2-line:before {
+    content: "î¹"
+}
+
+.ri-notification-3-fill:before {
+    content: "î¹"
+}
+
+.ri-notification-3-line:before {
+    content: "î¹‘"
+}
+
+.ri-notification-4-fill:before {
+    content: "î¹’"
+}
+
+.ri-notification-4-line:before {
+    content: "î¹“"
+}
+
+.ri-notification-badge-fill:before {
+    content: "î¹”"
+}
+
+.ri-notification-badge-line:before {
+    content: "î¹•"
+}
+
+.ri-notification-fill:before {
+    content: "î¹–"
+}
+
+.ri-notification-line:before {
+    content: "î¹—"
+}
+
+.ri-notification-off-fill:before {
+    content: "î¹˜"
+}
+
+.ri-notification-off-line:before {
+    content: "î¹™"
+}
+
+.ri-number-0:before {
+    content: "î¹š"
+}
+
+.ri-number-1:before {
+    content: "î¹›"
+}
+
+.ri-number-2:before {
+    content: "î¹œ"
+}
+
+.ri-number-3:before {
+    content: "î¹"
+}
+
+.ri-number-4:before {
+    content: "î¹ž"
+}
+
+.ri-number-5:before {
+    content: "î¹Ÿ"
+}
+
+.ri-number-6:before {
+    content: "î¹ "
+}
+
+.ri-number-7:before {
+    content: "î¹¡"
+}
+
+.ri-number-8:before {
+    content: "î¹¢"
+}
+
+.ri-number-9:before {
+    content: "î¹£"
+}
+
+.ri-numbers-fill:before {
+    content: "î¹¤"
+}
+
+.ri-numbers-line:before {
+    content: "î¹¥"
+}
+
+.ri-oil-fill:before {
+    content: "î¹¦"
+}
+
+.ri-oil-line:before {
+    content: "î¹§"
+}
+
+.ri-omega:before {
+    content: "î¹¨"
+}
+
+.ri-open-arm-fill:before {
+    content: "î¹©"
+}
+
+.ri-open-arm-line:before {
+    content: "î¹ª"
+}
+
+.ri-opera-fill:before {
+    content: "î¹«"
+}
+
+.ri-opera-line:before {
+    content: "î¹¬"
+}
+
+.ri-order-play-fill:before {
+    content: "î¹­"
+}
+
+.ri-order-play-line:before {
+    content: "î¹®"
+}
+
+.ri-outlet-2-fill:before {
+    content: "î¹¯"
+}
+
+.ri-outlet-2-line:before {
+    content: "î¹°"
+}
+
+.ri-outlet-fill:before {
+    content: "î¹±"
+}
+
+.ri-outlet-line:before {
+    content: "î¹²"
+}
+
+.ri-page-separator:before {
+    content: "î¹³"
+}
+
+.ri-pages-fill:before {
+    content: "î¹´"
+}
+
+.ri-pages-line:before {
+    content: "î¹µ"
+}
+
+.ri-paint-brush-fill:before {
+    content: "î¹¶"
+}
+
+.ri-paint-brush-line:before {
+    content: "î¹·"
+}
+
+.ri-paint-fill:before {
+    content: "î¹¸"
+}
+
+.ri-paint-line:before {
+    content: "î¹¹"
+}
+
+.ri-palette-fill:before {
+    content: "î¹º"
+}
+
+.ri-palette-line:before {
+    content: "î¹»"
+}
+
+.ri-pantone-fill:before {
+    content: "î¹¼"
+}
+
+.ri-pantone-line:before {
+    content: "î¹½"
+}
+
+.ri-paragraph:before {
+    content: "î¹¾"
+}
+
+.ri-parent-fill:before {
+    content: "î¹¿"
+}
+
+.ri-parent-line:before {
+    content: "îº€"
+}
+
+.ri-parentheses-fill:before {
+    content: "îº"
+}
+
+.ri-parentheses-line:before {
+    content: "îº‚"
+}
+
+.ri-parking-box-fill:before {
+    content: "îºƒ"
+}
+
+.ri-parking-box-line:before {
+    content: "îº„"
+}
+
+.ri-parking-fill:before {
+    content: "îº…"
+}
+
+.ri-parking-line:before {
+    content: "îº†"
+}
+
+.ri-patreon-fill:before {
+    content: "îº‡"
+}
+
+.ri-patreon-line:before {
+    content: "îºˆ"
+}
+
+.ri-pause-circle-fill:before {
+    content: "îº‰"
+}
+
+.ri-pause-circle-line:before {
+    content: "îºŠ"
+}
+
+.ri-pause-fill:before {
+    content: "îº‹"
+}
+
+.ri-pause-line:before {
+    content: "îºŒ"
+}
+
+.ri-pause-mini-fill:before {
+    content: "îº"
+}
+
+.ri-pause-mini-line:before {
+    content: "îºŽ"
+}
+
+.ri-paypal-fill:before {
+    content: "îº"
+}
+
+.ri-paypal-line:before {
+    content: "îº"
+}
+
+.ri-pen-nib-fill:before {
+    content: "îº‘"
+}
+
+.ri-pen-nib-line:before {
+    content: "îº’"
+}
+
+.ri-pencil-fill:before {
+    content: "îº“"
+}
+
+.ri-pencil-line:before {
+    content: "îº”"
+}
+
+.ri-pencil-ruler-2-fill:before {
+    content: "îº•"
+}
+
+.ri-pencil-ruler-2-line:before {
+    content: "îº–"
+}
+
+.ri-pencil-ruler-fill:before {
+    content: "îº—"
+}
+
+.ri-pencil-ruler-line:before {
+    content: "îº˜"
+}
+
+.ri-percent-fill:before {
+    content: "îº™"
+}
+
+.ri-percent-line:before {
+    content: "îºš"
+}
+
+.ri-phone-camera-fill:before {
+    content: "îº›"
+}
+
+.ri-phone-camera-line:before {
+    content: "îºœ"
+}
+
+.ri-phone-fill:before {
+    content: "îº"
+}
+
+.ri-phone-line:before {
+    content: "îºž"
+}
+
+.ri-pie-chart-2-fill:before {
+    content: "îºŸ"
+}
+
+.ri-pie-chart-2-line:before {
+    content: "îº "
+}
+
+.ri-pie-chart-box-fill:before {
+    content: "îº¡"
+}
+
+.ri-pie-chart-box-line:before {
+    content: "îº¢"
+}
+
+.ri-pie-chart-fill:before {
+    content: "îº£"
+}
+
+.ri-pie-chart-line:before {
+    content: "îº¤"
+}
+
+.ri-pin-distance-fill:before {
+    content: "îº¥"
+}
+
+.ri-pin-distance-line:before {
+    content: "îº¦"
+}
+
+.ri-pinterest-fill:before {
+    content: "îº§"
+}
+
+.ri-pinterest-line:before {
+    content: "îº¨"
+}
+
+.ri-plane-fill:before {
+    content: "îº©"
+}
+
+.ri-plane-line:before {
+    content: "îºª"
+}
+
+.ri-play-circle-fill:before {
+    content: "îº«"
+}
+
+.ri-play-circle-line:before {
+    content: "îº¬"
+}
+
+.ri-play-fill:before {
+    content: "îº­"
+}
+
+.ri-play-line:before {
+    content: "îº®"
+}
+
+.ri-play-list-add-fill:before {
+    content: "îº¯"
+}
+
+.ri-play-list-add-line:before {
+    content: "îº°"
+}
+
+.ri-play-list-fill:before {
+    content: "îº±"
+}
+
+.ri-play-list-line:before {
+    content: "îº²"
+}
+
+.ri-play-mini-fill:before {
+    content: "îº³"
+}
+
+.ri-play-mini-line:before {
+    content: "îº´"
+}
+
+.ri-playstation-fill:before {
+    content: "îºµ"
+}
+
+.ri-playstation-line:before {
+    content: "îº¶"
+}
+
+.ri-plug-2-fill:before {
+    content: "îº·"
+}
+
+.ri-plug-2-line:before {
+    content: "îº¸"
+}
+
+.ri-plug-fill:before {
+    content: "îº¹"
+}
+
+.ri-plug-line:before {
+    content: "îºº"
+}
+
+.ri-polaroid-2-fill:before {
+    content: "îº»"
+}
+
+.ri-polaroid-2-line:before {
+    content: "îº¼"
+}
+
+.ri-polaroid-fill:before {
+    content: "îº½"
+}
+
+.ri-polaroid-line:before {
+    content: "îº¾"
+}
+
+.ri-police-car-fill:before {
+    content: "îº¿"
+}
+
+.ri-police-car-line:before {
+    content: "î»€"
+}
+
+.ri-price-tag-2-fill:before {
+    content: "î»"
+}
+
+.ri-price-tag-2-line:before {
+    content: "î»‚"
+}
+
+.ri-price-tag-3-fill:before {
+    content: "î»ƒ"
+}
+
+.ri-price-tag-3-line:before {
+    content: "î»„"
+}
+
+.ri-price-tag-fill:before {
+    content: "î»…"
+}
+
+.ri-price-tag-line:before {
+    content: "î»†"
+}
+
+.ri-printer-fill:before {
+    content: "î»‡"
+}
+
+.ri-printer-line:before {
+    content: "î»ˆ"
+}
+
+.ri-product-hunt-fill:before {
+    content: "î»‰"
+}
+
+.ri-product-hunt-line:before {
+    content: "î»Š"
+}
+
+.ri-profile-fill:before {
+    content: "î»‹"
+}
+
+.ri-profile-line:before {
+    content: "î»Œ"
+}
+
+.ri-projector-2-fill:before {
+    content: "î»"
+}
+
+.ri-projector-2-line:before {
+    content: "î»Ž"
+}
+
+.ri-projector-fill:before {
+    content: "î»"
+}
+
+.ri-projector-line:before {
+    content: "î»"
+}
+
+.ri-push-pin-2-fill:before {
+    content: "î»‘"
+}
+
+.ri-push-pin-2-line:before {
+    content: "î»’"
+}
+
+.ri-push-pin-fill:before {
+    content: "î»“"
+}
+
+.ri-push-pin-line:before {
+    content: "î»”"
+}
+
+.ri-qq-fill:before {
+    content: "î»•"
+}
+
+.ri-qq-line:before {
+    content: "î»–"
+}
+
+.ri-qr-code-fill:before {
+    content: "î»—"
+}
+
+.ri-qr-code-line:before {
+    content: "î»˜"
+}
+
+.ri-qr-scan-2-fill:before {
+    content: "î»™"
+}
+
+.ri-qr-scan-2-line:before {
+    content: "î»š"
+}
+
+.ri-qr-scan-fill:before {
+    content: "î»›"
+}
+
+.ri-qr-scan-line:before {
+    content: "î»œ"
+}
+
+.ri-question-answer-fill:before {
+    content: "î»"
+}
+
+.ri-question-answer-line:before {
+    content: "î»ž"
+}
+
+.ri-question-fill:before {
+    content: "î»Ÿ"
+}
+
+.ri-question-line:before {
+    content: "î» "
+}
+
+.ri-questionnaire-fill:before {
+    content: "î»¡"
+}
+
+.ri-questionnaire-line:before {
+    content: "î»¢"
+}
+
+.ri-quill-pen-fill:before {
+    content: "î»£"
+}
+
+.ri-quill-pen-line:before {
+    content: "î»¤"
+}
+
+.ri-radar-fill:before {
+    content: "î»¥"
+}
+
+.ri-radar-line:before {
+    content: "î»¦"
+}
+
+.ri-radio-2-fill:before {
+    content: "î»§"
+}
+
+.ri-radio-2-line:before {
+    content: "î»¨"
+}
+
+.ri-radio-button-fill:before {
+    content: "î»©"
+}
+
+.ri-radio-button-line:before {
+    content: "î»ª"
+}
+
+.ri-radio-fill:before {
+    content: "î»«"
+}
+
+.ri-radio-line:before {
+    content: "î»¬"
+}
+
+.ri-rainy-fill:before {
+    content: "î»­"
+}
+
+.ri-rainy-line:before {
+    content: "î»®"
+}
+
+.ri-reactjs-fill:before {
+    content: "î»¯"
+}
+
+.ri-reactjs-line:before {
+    content: "î»°"
+}
+
+.ri-record-circle-fill:before {
+    content: "î»±"
+}
+
+.ri-record-circle-line:before {
+    content: "î»²"
+}
+
+.ri-record-mail-fill:before {
+    content: "î»³"
+}
+
+.ri-record-mail-line:before {
+    content: "î»´"
+}
+
+.ri-red-packet-fill:before {
+    content: "î»µ"
+}
+
+.ri-red-packet-line:before {
+    content: "î»¶"
+}
+
+.ri-reddit-fill:before {
+    content: "î»·"
+}
+
+.ri-reddit-line:before {
+    content: "î»¸"
+}
+
+.ri-refresh-fill:before {
+    content: "î»¹"
+}
+
+.ri-refresh-line:before {
+    content: "î»º"
+}
+
+.ri-refund-fill:before {
+    content: "î»»"
+}
+
+.ri-refund-line:before {
+    content: "î»¼"
+}
+
+.ri-remixicon-fill:before {
+    content: "î»½"
+}
+
+.ri-remixicon-line:before {
+    content: "î»¾"
+}
+
+.ri-repeat-2-fill:before {
+    content: "î»¿"
+}
+
+.ri-repeat-2-line:before {
+    content: "î¼€"
+}
+
+.ri-repeat-fill:before {
+    content: "î¼"
+}
+
+.ri-repeat-line:before {
+    content: "î¼‚"
+}
+
+.ri-repeat-one-fill:before {
+    content: "î¼ƒ"
+}
+
+.ri-repeat-one-line:before {
+    content: "î¼„"
+}
+
+.ri-reply-fill:before {
+    content: "î¼…"
+}
+
+.ri-reply-line:before {
+    content: "î¼†"
+}
+
+.ri-reserved-fill:before {
+    content: "î¼‡"
+}
+
+.ri-reserved-line:before {
+    content: "î¼ˆ"
+}
+
+.ri-restart-fill:before {
+    content: "î¼‰"
+}
+
+.ri-restart-line:before {
+    content: "î¼Š"
+}
+
+.ri-restaurant-2-fill:before {
+    content: "î¼‹"
+}
+
+.ri-restaurant-2-line:before {
+    content: "î¼Œ"
+}
+
+.ri-restaurant-fill:before {
+    content: "î¼"
+}
+
+.ri-restaurant-line:before {
+    content: "î¼Ž"
+}
+
+.ri-rewind-fill:before {
+    content: "î¼"
+}
+
+.ri-rewind-line:before {
+    content: "î¼"
+}
+
+.ri-rewind-mini-fill:before {
+    content: "î¼‘"
+}
+
+.ri-rewind-mini-line:before {
+    content: "î¼’"
+}
+
+.ri-rhythm-fill:before {
+    content: "î¼“"
+}
+
+.ri-rhythm-line:before {
+    content: "î¼”"
+}
+
+.ri-riding-fill:before {
+    content: "î¼•"
+}
+
+.ri-riding-line:before {
+    content: "î¼–"
+}
+
+.ri-road-map-fill:before {
+    content: "î¼—"
+}
+
+.ri-road-map-line:before {
+    content: "î¼˜"
+}
+
+.ri-roadster-fill:before {
+    content: "î¼™"
+}
+
+.ri-roadster-line:before {
+    content: "î¼š"
+}
+
+.ri-robot-fill:before {
+    content: "î¼›"
+}
+
+.ri-robot-line:before {
+    content: "î¼œ"
+}
+
+.ri-rocket-2-fill:before {
+    content: "î¼"
+}
+
+.ri-rocket-2-line:before {
+    content: "î¼ž"
+}
+
+.ri-rocket-fill:before {
+    content: "î¼Ÿ"
+}
+
+.ri-rocket-line:before {
+    content: "î¼ "
+}
+
+.ri-route-fill:before {
+    content: "î¼¡"
+}
+
+.ri-route-line:before {
+    content: "î¼¢"
+}
+
+.ri-router-fill:before {
+    content: "î¼£"
+}
+
+.ri-router-line:before {
+    content: "î¼¤"
+}
+
+.ri-rss-fill:before {
+    content: "î¼¥"
+}
+
+.ri-rss-line:before {
+    content: "î¼¦"
+}
+
+.ri-ruler-2-fill:before {
+    content: "î¼§"
+}
+
+.ri-ruler-2-line:before {
+    content: "î¼¨"
+}
+
+.ri-ruler-fill:before {
+    content: "î¼©"
+}
+
+.ri-ruler-line:before {
+    content: "î¼ª"
+}
+
+.ri-run-fill:before {
+    content: "î¼«"
+}
+
+.ri-run-line:before {
+    content: "î¼¬"
+}
+
+.ri-safari-fill:before {
+    content: "î¼­"
+}
+
+.ri-safari-line:before {
+    content: "î¼®"
+}
+
+.ri-safe-2-fill:before {
+    content: "î¼¯"
+}
+
+.ri-safe-2-line:before {
+    content: "î¼°"
+}
+
+.ri-safe-fill:before {
+    content: "î¼±"
+}
+
+.ri-safe-line:before {
+    content: "î¼²"
+}
+
+.ri-sailboat-fill:before {
+    content: "î¼³"
+}
+
+.ri-sailboat-line:before {
+    content: "î¼´"
+}
+
+.ri-save-2-fill:before {
+    content: "î¼µ"
+}
+
+.ri-save-2-line:before {
+    content: "î¼¶"
+}
+
+.ri-save-3-fill:before {
+    content: "î¼·"
+}
+
+.ri-save-3-line:before {
+    content: "î¼¸"
+}
+
+.ri-save-fill:before {
+    content: "î¼¹"
+}
+
+.ri-save-line:before {
+    content: "î¼º"
+}
+
+.ri-scan-2-fill:before {
+    content: "î¼»"
+}
+
+.ri-scan-2-line:before {
+    content: "î¼¼"
+}
+
+.ri-scan-fill:before {
+    content: "î¼½"
+}
+
+.ri-scan-line:before {
+    content: "î¼¾"
+}
+
+.ri-scissors-2-fill:before {
+    content: "î¼¿"
+}
+
+.ri-scissors-2-line:before {
+    content: "î½€"
+}
+
+.ri-scissors-cut-fill:before {
+    content: "î½"
+}
+
+.ri-scissors-cut-line:before {
+    content: "î½‚"
+}
+
+.ri-scissors-fill:before {
+    content: "î½ƒ"
+}
+
+.ri-scissors-line:before {
+    content: "î½„"
+}
+
+.ri-screenshot-2-fill:before {
+    content: "î½…"
+}
+
+.ri-screenshot-2-line:before {
+    content: "î½†"
+}
+
+.ri-screenshot-fill:before {
+    content: "î½‡"
+}
+
+.ri-screenshot-line:before {
+    content: "î½ˆ"
+}
+
+.ri-sd-card-fill:before {
+    content: "î½‰"
+}
+
+.ri-sd-card-line:before {
+    content: "î½Š"
+}
+
+.ri-sd-card-mini-fill:before {
+    content: "î½‹"
+}
+
+.ri-sd-card-mini-line:before {
+    content: "î½Œ"
+}
+
+.ri-search-2-fill:before {
+    content: "î½"
+}
+
+.ri-search-2-line:before {
+    content: "î½Ž"
+}
+
+.ri-search-eye-fill:before {
+    content: "î½"
+}
+
+.ri-search-eye-line:before {
+    content: "î½"
+}
+
+.ri-search-fill:before {
+    content: "î½‘"
+}
+
+.ri-search-line:before {
+    content: "î½’"
+}
+
+.ri-send-plane-2-fill:before {
+    content: "î½“"
+}
+
+.ri-send-plane-2-line:before {
+    content: "î½”"
+}
+
+.ri-send-plane-fill:before {
+    content: "î½•"
+}
+
+.ri-send-plane-line:before {
+    content: "î½–"
+}
+
+.ri-sensor-fill:before {
+    content: "î½—"
+}
+
+.ri-sensor-line:before {
+    content: "î½˜"
+}
+
+.ri-separator:before {
+    content: "î½™"
+}
+
+.ri-server-fill:before {
+    content: "î½š"
+}
+
+.ri-server-line:before {
+    content: "î½›"
+}
+
+.ri-settings-2-fill:before {
+    content: "î½œ"
+}
+
+.ri-settings-2-line:before {
+    content: "î½"
+}
+
+.ri-settings-3-fill:before {
+    content: "î½ž"
+}
+
+.ri-settings-3-line:before {
+    content: "î½Ÿ"
+}
+
+.ri-settings-4-fill:before {
+    content: "î½ "
+}
+
+.ri-settings-4-line:before {
+    content: "î½¡"
+}
+
+.ri-settings-5-fill:before {
+    content: "î½¢"
+}
+
+.ri-settings-5-line:before {
+    content: "î½£"
+}
+
+.ri-settings-6-fill:before {
+    content: "î½¤"
+}
+
+.ri-settings-6-line:before {
+    content: "î½¥"
+}
+
+.ri-settings-fill:before {
+    content: "î½¦"
+}
+
+.ri-settings-line:before {
+    content: "î½§"
+}
+
+.ri-shape-2-fill:before {
+    content: "î½¨"
+}
+
+.ri-shape-2-line:before {
+    content: "î½©"
+}
+
+.ri-shape-fill:before {
+    content: "î½ª"
+}
+
+.ri-shape-line:before {
+    content: "î½«"
+}
+
+.ri-share-box-fill:before {
+    content: "î½¬"
+}
+
+.ri-share-box-line:before {
+    content: "î½­"
+}
+
+.ri-share-circle-fill:before {
+    content: "î½®"
+}
+
+.ri-share-circle-line:before {
+    content: "î½¯"
+}
+
+.ri-share-fill:before {
+    content: "î½°"
+}
+
+.ri-share-forward-2-fill:before {
+    content: "î½±"
+}
+
+.ri-share-forward-2-line:before {
+    content: "î½²"
+}
+
+.ri-share-forward-box-fill:before {
+    content: "î½³"
+}
+
+.ri-share-forward-box-line:before {
+    content: "î½´"
+}
+
+.ri-share-forward-fill:before {
+    content: "î½µ"
+}
+
+.ri-share-forward-line:before {
+    content: "î½¶"
+}
+
+.ri-share-line:before {
+    content: "î½·"
+}
+
+.ri-share-stack-fill:before {
+    content: "î½¸"
+}
+
+.ri-share-stack-line:before {
+    content: "î½¹"
+}
+
+.ri-shield-cross-fill:before {
+    content: "î½º"
+}
+
+.ri-shield-cross-line:before {
+    content: "î½»"
+}
+
+.ri-shield-fill:before {
+    content: "î½¼"
+}
+
+.ri-shield-flash-fill:before {
+    content: "î½½"
+}
+
+.ri-shield-flash-line:before {
+    content: "î½¾"
+}
+
+.ri-shield-keyhole-fill:before {
+    content: "î½¿"
+}
+
+.ri-shield-keyhole-line:before {
+    content: "î¾€"
+}
+
+.ri-shield-line:before {
+    content: "î¾"
+}
+
+.ri-shield-star-fill:before {
+    content: "î¾‚"
+}
+
+.ri-shield-star-line:before {
+    content: "î¾ƒ"
+}
+
+.ri-shield-user-fill:before {
+    content: "î¾„"
+}
+
+.ri-shield-user-line:before {
+    content: "î¾…"
+}
+
+.ri-ship-2-fill:before {
+    content: "î¾†"
+}
+
+.ri-ship-2-line:before {
+    content: "î¾‡"
+}
+
+.ri-ship-fill:before {
+    content: "î¾ˆ"
+}
+
+.ri-ship-line:before {
+    content: "î¾‰"
+}
+
+.ri-shirt-fill:before {
+    content: "î¾Š"
+}
+
+.ri-shirt-line:before {
+    content: "î¾‹"
+}
+
+.ri-shopping-bag-2-fill:before {
+    content: "î¾Œ"
+}
+
+.ri-shopping-bag-2-line:before {
+    content: "î¾"
+}
+
+.ri-shopping-bag-3-fill:before {
+    content: "î¾Ž"
+}
+
+.ri-shopping-bag-3-line:before {
+    content: "î¾"
+}
+
+.ri-shopping-bag-fill:before {
+    content: "î¾"
+}
+
+.ri-shopping-bag-line:before {
+    content: "î¾‘"
+}
+
+.ri-shopping-cart-2-fill:before {
+    content: "î¾’"
+}
+
+.ri-shopping-cart-2-line:before {
+    content: "î¾“"
+}
+
+.ri-shopping-cart-fill:before {
+    content: "î¾”"
+}
+
+.ri-shopping-cart-line:before {
+    content: "î¾•"
+}
+
+.ri-showers-fill:before {
+    content: "î¾–"
+}
+
+.ri-showers-line:before {
+    content: "î¾—"
+}
+
+.ri-shuffle-fill:before {
+    content: "î¾˜"
+}
+
+.ri-shuffle-line:before {
+    content: "î¾™"
+}
+
+.ri-shut-down-fill:before {
+    content: "î¾š"
+}
+
+.ri-shut-down-line:before {
+    content: "î¾›"
+}
+
+.ri-side-bar-fill:before {
+    content: "î¾œ"
+}
+
+.ri-side-bar-line:before {
+    content: "î¾"
+}
+
+.ri-signal-tower-fill:before {
+    content: "î¾ž"
+}
+
+.ri-signal-tower-line:before {
+    content: "î¾Ÿ"
+}
+
+.ri-sim-card-2-fill:before {
+    content: "î¾ "
+}
+
+.ri-sim-card-2-line:before {
+    content: "î¾¡"
+}
+
+.ri-sim-card-fill:before {
+    content: "î¾¢"
+}
+
+.ri-sim-card-line:before {
+    content: "î¾£"
+}
+
+.ri-single-quotes-l:before {
+    content: "î¾¤"
+}
+
+.ri-single-quotes-r:before {
+    content: "î¾¥"
+}
+
+.ri-sip-fill:before {
+    content: "î¾¦"
+}
+
+.ri-sip-line:before {
+    content: "î¾§"
+}
+
+.ri-skip-back-fill:before {
+    content: "î¾¨"
+}
+
+.ri-skip-back-line:before {
+    content: "î¾©"
+}
+
+.ri-skip-back-mini-fill:before {
+    content: "î¾ª"
+}
+
+.ri-skip-back-mini-line:before {
+    content: "î¾«"
+}
+
+.ri-skip-forward-fill:before {
+    content: "î¾¬"
+}
+
+.ri-skip-forward-line:before {
+    content: "î¾­"
+}
+
+.ri-skip-forward-mini-fill:before {
+    content: "î¾®"
+}
+
+.ri-skip-forward-mini-line:before {
+    content: "î¾¯"
+}
+
+.ri-skull-fill:before {
+    content: "î¾°"
+}
+
+.ri-skull-line:before {
+    content: "î¾±"
+}
+
+.ri-skype-fill:before {
+    content: "î¾²"
+}
+
+.ri-skype-line:before {
+    content: "î¾³"
+}
+
+.ri-slack-fill:before {
+    content: "î¾´"
+}
+
+.ri-slack-line:before {
+    content: "î¾µ"
+}
+
+.ri-slice-fill:before {
+    content: "î¾¶"
+}
+
+.ri-slice-line:before {
+    content: "î¾·"
+}
+
+.ri-slideshow-2-fill:before {
+    content: "î¾¸"
+}
+
+.ri-slideshow-2-line:before {
+    content: "î¾¹"
+}
+
+.ri-slideshow-3-fill:before {
+    content: "î¾º"
+}
+
+.ri-slideshow-3-line:before {
+    content: "î¾»"
+}
+
+.ri-slideshow-4-fill:before {
+    content: "î¾¼"
+}
+
+.ri-slideshow-4-line:before {
+    content: "î¾½"
+}
+
+.ri-slideshow-fill:before {
+    content: "î¾¾"
+}
+
+.ri-slideshow-line:before {
+    content: "î¾¿"
+}
+
+.ri-smartphone-fill:before {
+    content: "î¿€"
+}
+
+.ri-smartphone-line:before {
+    content: "î¿"
+}
+
+.ri-snapchat-fill:before {
+    content: "î¿‚"
+}
+
+.ri-snapchat-line:before {
+    content: "î¿ƒ"
+}
+
+.ri-snowy-fill:before {
+    content: "î¿„"
+}
+
+.ri-snowy-line:before {
+    content: "î¿…"
+}
+
+.ri-sound-module-fill:before {
+    content: "î¿†"
+}
+
+.ri-sound-module-line:before {
+    content: "î¿‡"
+}
+
+.ri-space-ship-fill:before {
+    content: "î¿ˆ"
+}
+
+.ri-space-ship-line:before {
+    content: "î¿‰"
+}
+
+.ri-space:before {
+    content: "î¿Š"
+}
+
+.ri-spam-2-fill:before {
+    content: "î¿‹"
+}
+
+.ri-spam-2-line:before {
+    content: "î¿Œ"
+}
+
+.ri-spam-3-fill:before {
+    content: "î¿"
+}
+
+.ri-spam-3-line:before {
+    content: "î¿Ž"
+}
+
+.ri-spam-fill:before {
+    content: "î¿"
+}
+
+.ri-spam-line:before {
+    content: "î¿"
+}
+
+.ri-speaker-2-fill:before {
+    content: "î¿‘"
+}
+
+.ri-speaker-2-line:before {
+    content: "î¿’"
+}
+
+.ri-speaker-3-fill:before {
+    content: "î¿“"
+}
+
+.ri-speaker-3-line:before {
+    content: "î¿”"
+}
+
+.ri-speaker-fill:before {
+    content: "î¿•"
+}
+
+.ri-speaker-line:before {
+    content: "î¿–"
+}
+
+.ri-speed-fill:before {
+    content: "î¿—"
+}
+
+.ri-speed-line:before {
+    content: "î¿˜"
+}
+
+.ri-speed-mini-fill:before {
+    content: "î¿™"
+}
+
+.ri-speed-mini-line:before {
+    content: "î¿š"
+}
+
+.ri-spotify-fill:before {
+    content: "î¿›"
+}
+
+.ri-spotify-line:before {
+    content: "î¿œ"
+}
+
+.ri-stack-fill:before {
+    content: "î¿"
+}
+
+.ri-stack-line:before {
+    content: "î¿ž"
+}
+
+.ri-stack-overflow-fill:before {
+    content: "î¿Ÿ"
+}
+
+.ri-stack-overflow-line:before {
+    content: "î¿ "
+}
+
+.ri-star-fill:before {
+    content: "î¿¡"
+}
+
+.ri-star-half-fill:before {
+    content: "î¿¢"
+}
+
+.ri-star-half-line:before {
+    content: "î¿£"
+}
+
+.ri-star-half-s-fill:before {
+    content: "î¿¤"
+}
+
+.ri-star-half-s-line:before {
+    content: "î¿¥"
+}
+
+.ri-star-line:before {
+    content: "î¿¦"
+}
+
+.ri-star-s-fill:before {
+    content: "î¿§"
+}
+
+.ri-star-s-line:before {
+    content: "î¿¨"
+}
+
+.ri-steering-2-fill:before {
+    content: "î¿©"
+}
+
+.ri-steering-2-line:before {
+    content: "î¿ª"
+}
+
+.ri-steering-fill:before {
+    content: "î¿«"
+}
+
+.ri-steering-line:before {
+    content: "î¿¬"
+}
+
+.ri-sticky-note-2-fill:before {
+    content: "î¿­"
+}
+
+.ri-sticky-note-2-line:before {
+    content: "î¿®"
+}
+
+.ri-sticky-note-fill:before {
+    content: "î¿¯"
+}
+
+.ri-sticky-note-line:before {
+    content: "î¿°"
+}
+
+.ri-stock-fill:before {
+    content: "î¿±"
+}
+
+.ri-stock-line:before {
+    content: "î¿²"
+}
+
+.ri-stop-circle-fill:before {
+    content: "î¿³"
+}
+
+.ri-stop-circle-line:before {
+    content: "î¿´"
+}
+
+.ri-stop-fill:before {
+    content: "î¿µ"
+}
+
+.ri-stop-line:before {
+    content: "î¿¶"
+}
+
+.ri-stop-mini-fill:before {
+    content: "î¿·"
+}
+
+.ri-stop-mini-line:before {
+    content: "î¿¸"
+}
+
+.ri-store-2-fill:before {
+    content: "î¿¹"
+}
+
+.ri-store-2-line:before {
+    content: "î¿º"
+}
+
+.ri-store-3-fill:before {
+    content: "î¿»"
+}
+
+.ri-store-3-line:before {
+    content: "î¿¼"
+}
+
+.ri-store-fill:before {
+    content: "î¿½"
+}
+
+.ri-store-line:before {
+    content: "î¿¾"
+}
+
+.ri-strikethrough-2:before {
+    content: "î¿¿"
+}
+
+.ri-strikethrough:before {
+    content: "ï€€"
+}
+
+.ri-subscript-2:before {
+    content: "ï€"
+}
+
+.ri-subscript:before {
+    content: "ï€‚"
+}
+
+.ri-subtract-fill:before {
+    content: "ï€ƒ"
+}
+
+.ri-subtract-line:before {
+    content: "ï€„"
+}
+
+.ri-subway-fill:before {
+    content: "ï€…"
+}
+
+.ri-subway-line:before {
+    content: "ï€†"
+}
+
+.ri-sun-cloudy-fill:before {
+    content: "ï€‡"
+}
+
+.ri-sun-cloudy-line:before {
+    content: "ï€ˆ"
+}
+
+.ri-sun-fill:before {
+    content: "ï€‰"
+}
+
+.ri-sun-foggy-fill:before {
+    content: "ï€Š"
+}
+
+.ri-sun-foggy-line:before {
+    content: "ï€‹"
+}
+
+.ri-sun-line:before {
+    content: "ï€Œ"
+}
+
+.ri-superscript-2:before {
+    content: "ï€"
+}
+
+.ri-superscript:before {
+    content: "ï€Ž"
+}
+
+.ri-surround-sound-fill:before {
+    content: "ï€"
+}
+
+.ri-surround-sound-line:before {
+    content: "ï€"
+}
+
+.ri-swap-box-fill:before {
+    content: "ï€‘"
+}
+
+.ri-swap-box-line:before {
+    content: "ï€’"
+}
+
+.ri-swap-fill:before {
+    content: "ï€“"
+}
+
+.ri-swap-line:before {
+    content: "ï€”"
+}
+
+.ri-switch-fill:before {
+    content: "ï€•"
+}
+
+.ri-switch-line:before {
+    content: "ï€–"
+}
+
+.ri-t-box-fill:before {
+    content: "ï€—"
+}
+
+.ri-t-box-line:before {
+    content: "ï€˜"
+}
+
+.ri-t-shirt-fill:before {
+    content: "ï€™"
+}
+
+.ri-t-shirt-line:before {
+    content: "ï€š"
+}
+
+.ri-table-2:before {
+    content: "ï€›"
+}
+
+.ri-table-fill:before {
+    content: "ï€œ"
+}
+
+.ri-table-line:before {
+    content: "ï€"
+}
+
+.ri-tablet-fill:before {
+    content: "ï€ž"
+}
+
+.ri-tablet-line:before {
+    content: "ï€Ÿ"
+}
+
+.ri-taobao-fill:before {
+    content: "ï€ "
+}
+
+.ri-taobao-line:before {
+    content: "ï€¡"
+}
+
+.ri-tape-fill:before {
+    content: "ï€¢"
+}
+
+.ri-tape-line:before {
+    content: "ï€£"
+}
+
+.ri-task-fill:before {
+    content: "ï€¤"
+}
+
+.ri-task-line:before {
+    content: "ï€¥"
+}
+
+.ri-taxi-fill:before {
+    content: "ï€¦"
+}
+
+.ri-taxi-line:before {
+    content: "ï€§"
+}
+
+.ri-telegram-fill:before {
+    content: "ï€¨"
+}
+
+.ri-telegram-line:before {
+    content: "ï€©"
+}
+
+.ri-temp-cold-fill:before {
+    content: "ï€ª"
+}
+
+.ri-temp-cold-line:before {
+    content: "ï€«"
+}
+
+.ri-temp-hot-fill:before {
+    content: "ï€¬"
+}
+
+.ri-temp-hot-line:before {
+    content: "ï€­"
+}
+
+.ri-terminal-box-fill:before {
+    content: "ï€®"
+}
+
+.ri-terminal-box-line:before {
+    content: "ï€¯"
+}
+
+.ri-terminal-fill:before {
+    content: "ï€°"
+}
+
+.ri-terminal-line:before {
+    content: "ï€±"
+}
+
+.ri-terminal-window-fill:before {
+    content: "ï€²"
+}
+
+.ri-terminal-window-line:before {
+    content: "ï€³"
+}
+
+.ri-text-direction-l:before {
+    content: "ï€´"
+}
+
+.ri-text-direction-r:before {
+    content: "ï€µ"
+}
+
+.ri-text-spacing:before {
+    content: "ï€¶"
+}
+
+.ri-text-wrap:before {
+    content: "ï€·"
+}
+
+.ri-text:before {
+    content: "ï€¸"
+}
+
+.ri-thumb-down-fill:before {
+    content: "ï€¹"
+}
+
+.ri-thumb-down-line:before {
+    content: "ï€º"
+}
+
+.ri-thumb-up-fill:before {
+    content: "ï€»"
+}
+
+.ri-thumb-up-line:before {
+    content: "ï€¼"
+}
+
+.ri-thunderstorms-fill:before {
+    content: "ï€½"
+}
+
+.ri-thunderstorms-line:before {
+    content: "ï€¾"
+}
+
+.ri-time-fill:before {
+    content: "ï€¿"
+}
+
+.ri-time-line:before {
+    content: "ï€"
+}
+
+.ri-timer-2-fill:before {
+    content: "ï"
+}
+
+.ri-timer-2-line:before {
+    content: "ï‚"
+}
+
+.ri-timer-fill:before {
+    content: "ïƒ"
+}
+
+.ri-timer-flash-fill:before {
+    content: "ï„"
+}
+
+.ri-timer-flash-line:before {
+    content: "ï…"
+}
+
+.ri-timer-line:before {
+    content: "ï†"
+}
+
+.ri-todo-fill:before {
+    content: "ï‡"
+}
+
+.ri-todo-line:before {
+    content: "ïˆ"
+}
+
+.ri-toggle-fill:before {
+    content: "ï‰"
+}
+
+.ri-toggle-line:before {
+    content: "ïŠ"
+}
+
+.ri-tools-fill:before {
+    content: "ï‹"
+}
+
+.ri-tools-line:before {
+    content: "ïŒ"
+}
+
+.ri-tornado-fill:before {
+    content: "ï"
+}
+
+.ri-tornado-line:before {
+    content: "ïŽ"
+}
+
+.ri-traffic-light-fill:before {
+    content: "ï"
+}
+
+.ri-traffic-light-line:before {
+    content: "ï"
+}
+
+.ri-train-fill:before {
+    content: "ï‘"
+}
+
+.ri-train-line:before {
+    content: "ï’"
+}
+
+.ri-translate-2:before {
+    content: "ï“"
+}
+
+.ri-translate:before {
+    content: "ï”"
+}
+
+.ri-travesti-fill:before {
+    content: "ï•"
+}
+
+.ri-travesti-line:before {
+    content: "ï–"
+}
+
+.ri-treasure-map-fill:before {
+    content: "ï—"
+}
+
+.ri-treasure-map-line:before {
+    content: "ï˜"
+}
+
+.ri-trello-fill:before {
+    content: "ï™"
+}
+
+.ri-trello-line:before {
+    content: "ïš"
+}
+
+.ri-trophy-fill:before {
+    content: "ï›"
+}
+
+.ri-trophy-line:before {
+    content: "ïœ"
+}
+
+.ri-truck-fill:before {
+    content: "ï"
+}
+
+.ri-truck-line:before {
+    content: "ïž"
+}
+
+.ri-tumblr-fill:before {
+    content: "ïŸ"
+}
+
+.ri-tumblr-line:before {
+    content: "ï "
+}
+
+.ri-tv-2-fill:before {
+    content: "ï¡"
+}
+
+.ri-tv-2-line:before {
+    content: "ï¢"
+}
+
+.ri-tv-fill:before {
+    content: "ï£"
+}
+
+.ri-tv-line:before {
+    content: "ï¤"
+}
+
+.ri-twitch-fill:before {
+    content: "ï¥"
+}
+
+.ri-twitch-line:before {
+    content: "ï¦"
+}
+
+.ri-twitter-fill:before {
+    content: "ï§"
+}
+
+.ri-twitter-line:before {
+    content: "ï¨"
+}
+
+.ri-u-disk-fill:before {
+    content: "ï©"
+}
+
+.ri-u-disk-line:before {
+    content: "ïª"
+}
+
+.ri-ubuntu-fill:before {
+    content: "ï«"
+}
+
+.ri-ubuntu-line:before {
+    content: "ï¬"
+}
+
+.ri-umbrella-fill:before {
+    content: "ï­"
+}
+
+.ri-umbrella-line:before {
+    content: "ï®"
+}
+
+.ri-underline:before {
+    content: "ï¯"
+}
+
+.ri-upload-2-fill:before {
+    content: "ï°"
+}
+
+.ri-upload-2-line:before {
+    content: "ï±"
+}
+
+.ri-upload-cloud-2-fill:before {
+    content: "ï²"
+}
+
+.ri-upload-cloud-2-line:before {
+    content: "ï³"
+}
+
+.ri-upload-cloud-fill:before {
+    content: "ï´"
+}
+
+.ri-upload-cloud-line:before {
+    content: "ïµ"
+}
+
+.ri-upload-fill:before {
+    content: "ï¶"
+}
+
+.ri-upload-line:before {
+    content: "ï·"
+}
+
+.ri-user-2-fill:before {
+    content: "ï¸"
+}
+
+.ri-user-2-line:before {
+    content: "ï¹"
+}
+
+.ri-user-3-fill:before {
+    content: "ïº"
+}
+
+.ri-user-3-line:before {
+    content: "ï»"
+}
+
+.ri-user-4-fill:before {
+    content: "ï¼"
+}
+
+.ri-user-4-line:before {
+    content: "ï½"
+}
+
+.ri-user-5-fill:before {
+    content: "ï¾"
+}
+
+.ri-user-5-line:before {
+    content: "ï¿"
+}
+
+.ri-user-add-fill:before {
+    content: "ï‚€"
+}
+
+.ri-user-add-line:before {
+    content: "ï‚"
+}
+
+.ri-user-fill:before {
+    content: "ï‚‚"
+}
+
+.ri-user-follow-fill:before {
+    content: "ï‚ƒ"
+}
+
+.ri-user-follow-line:before {
+    content: "ï‚„"
+}
+
+.ri-user-line:before {
+    content: "ï‚…"
+}
+
+.ri-user-location-fill:before {
+    content: "ï‚†"
+}
+
+.ri-user-location-line:before {
+    content: "ï‚‡"
+}
+
+.ri-user-received-2-fill:before {
+    content: "ï‚ˆ"
+}
+
+.ri-user-received-2-line:before {
+    content: "ï‚‰"
+}
+
+.ri-user-received-fill:before {
+    content: "ï‚Š"
+}
+
+.ri-user-received-line:before {
+    content: "ï‚‹"
+}
+
+.ri-user-search-fill:before {
+    content: "ï‚Œ"
+}
+
+.ri-user-search-line:before {
+    content: "ï‚"
+}
+
+.ri-user-settings-fill:before {
+    content: "ï‚Ž"
+}
+
+.ri-user-settings-line:before {
+    content: "ï‚"
+}
+
+.ri-user-shared-2-fill:before {
+    content: "ï‚"
+}
+
+.ri-user-shared-2-line:before {
+    content: "ï‚‘"
+}
+
+.ri-user-shared-fill:before {
+    content: "ï‚’"
+}
+
+.ri-user-shared-line:before {
+    content: "ï‚“"
+}
+
+.ri-user-smile-fill:before {
+    content: "ï‚”"
+}
+
+.ri-user-smile-line:before {
+    content: "ï‚•"
+}
+
+.ri-user-star-fill:before {
+    content: "ï‚–"
+}
+
+.ri-user-star-line:before {
+    content: "ï‚—"
+}
+
+.ri-user-unfollow-fill:before {
+    content: "ï‚˜"
+}
+
+.ri-user-unfollow-line:before {
+    content: "ï‚™"
+}
+
+.ri-user-voice-fill:before {
+    content: "ï‚š"
+}
+
+.ri-user-voice-line:before {
+    content: "ï‚›"
+}
+
+.ri-video-chat-fill:before {
+    content: "ï‚œ"
+}
+
+.ri-video-chat-line:before {
+    content: "ï‚"
+}
+
+.ri-video-fill:before {
+    content: "ï‚ž"
+}
+
+.ri-video-line:before {
+    content: "ï‚Ÿ"
+}
+
+.ri-vidicon-2-fill:before {
+    content: "ï‚ "
+}
+
+.ri-vidicon-2-line:before {
+    content: "ï‚¡"
+}
+
+.ri-vidicon-fill:before {
+    content: "ï‚¢"
+}
+
+.ri-vidicon-line:before {
+    content: "ï‚£"
+}
+
+.ri-vip-crown-2-fill:before {
+    content: "ï‚¤"
+}
+
+.ri-vip-crown-2-line:before {
+    content: "ï‚¥"
+}
+
+.ri-vip-crown-fill:before {
+    content: "ï‚¦"
+}
+
+.ri-vip-crown-line:before {
+    content: "ï‚§"
+}
+
+.ri-vip-diamond-fill:before {
+    content: "ï‚¨"
+}
+
+.ri-vip-diamond-line:before {
+    content: "ï‚©"
+}
+
+.ri-vip-fill:before {
+    content: "ï‚ª"
+}
+
+.ri-vip-line:before {
+    content: "ï‚«"
+}
+
+.ri-visa-fill:before {
+    content: "ï‚¬"
+}
+
+.ri-visa-line:before {
+    content: "ï‚­"
+}
+
+.ri-voiceprint-fill:before {
+    content: "ï‚®"
+}
+
+.ri-voiceprint-line:before {
+    content: "ï‚¯"
+}
+
+.ri-volume-down-fill:before {
+    content: "ï‚°"
+}
+
+.ri-volume-down-line:before {
+    content: "ï‚±"
+}
+
+.ri-volume-mute-fill:before {
+    content: "ï‚²"
+}
+
+.ri-volume-mute-line:before {
+    content: "ï‚³"
+}
+
+.ri-volume-up-fill:before {
+    content: "ï‚´"
+}
+
+.ri-volume-up-line:before {
+    content: "ï‚µ"
+}
+
+.ri-vuejs-fill:before {
+    content: "ï‚¶"
+}
+
+.ri-vuejs-line:before {
+    content: "ï‚·"
+}
+
+.ri-walk-fill:before {
+    content: "ï‚¸"
+}
+
+.ri-walk-line:before {
+    content: "ï‚¹"
+}
+
+.ri-wallet-2-fill:before {
+    content: "ï‚º"
+}
+
+.ri-wallet-2-line:before {
+    content: "ï‚»"
+}
+
+.ri-wallet-3-fill:before {
+    content: "ï‚¼"
+}
+
+.ri-wallet-3-line:before {
+    content: "ï‚½"
+}
+
+.ri-wallet-fill:before {
+    content: "ï‚¾"
+}
+
+.ri-wallet-line:before {
+    content: "ï‚¿"
+}
+
+.ri-water-flash-fill:before {
+    content: "ïƒ€"
+}
+
+.ri-water-flash-line:before {
+    content: "ïƒ"
+}
+
+.ri-webcam-fill:before {
+    content: "ïƒ‚"
+}
+
+.ri-webcam-line:before {
+    content: "ïƒƒ"
+}
+
+.ri-wechat-2-fill:before {
+    content: "ïƒ„"
+}
+
+.ri-wechat-2-line:before {
+    content: "ïƒ…"
+}
+
+.ri-wechat-fill:before {
+    content: "ïƒ†"
+}
+
+.ri-wechat-line:before {
+    content: "ïƒ‡"
+}
+
+.ri-wechat-pay-fill:before {
+    content: "ïƒˆ"
+}
+
+.ri-wechat-pay-line:before {
+    content: "ïƒ‰"
+}
+
+.ri-weibo-fill:before {
+    content: "ïƒŠ"
+}
+
+.ri-weibo-line:before {
+    content: "ïƒ‹"
+}
+
+.ri-whatsapp-fill:before {
+    content: "ïƒŒ"
+}
+
+.ri-whatsapp-line:before {
+    content: "ïƒ"
+}
+
+.ri-wifi-fill:before {
+    content: "ïƒŽ"
+}
+
+.ri-wifi-line:before {
+    content: "ïƒ"
+}
+
+.ri-wifi-off-fill:before {
+    content: "ïƒ"
+}
+
+.ri-wifi-off-line:before {
+    content: "ïƒ‘"
+}
+
+.ri-window-2-fill:before {
+    content: "ïƒ’"
+}
+
+.ri-window-2-line:before {
+    content: "ïƒ“"
+}
+
+.ri-window-fill:before {
+    content: "ïƒ”"
+}
+
+.ri-window-line:before {
+    content: "ïƒ•"
+}
+
+.ri-windows-fill:before {
+    content: "ïƒ–"
+}
+
+.ri-windows-line:before {
+    content: "ïƒ—"
+}
+
+.ri-windy-fill:before {
+    content: "ïƒ˜"
+}
+
+.ri-windy-line:before {
+    content: "ïƒ™"
+}
+
+.ri-women-fill:before {
+    content: "ïƒš"
+}
+
+.ri-women-line:before {
+    content: "ïƒ›"
+}
+
+.ri-xbox-fill:before {
+    content: "ïƒœ"
+}
+
+.ri-xbox-line:before {
+    content: "ïƒ"
+}
+
+.ri-xing-fill:before {
+    content: "ïƒž"
+}
+
+.ri-xing-line:before {
+    content: "ïƒŸ"
+}
+
+.ri-youtube-fill:before {
+    content: "ïƒ "
+}
+
+.ri-youtube-line:before {
+    content: "ïƒ¡"
+}
+
+.ri-zcool-fill:before {
+    content: "ïƒ¢"
+}
+
+.ri-zcool-line:before {
+    content: "ïƒ£"
+}
+
+.ri-zhihu-fill:before {
+    content: "ïƒ¤"
+}
+
+.ri-zhihu-line:before {
+    content: "ïƒ¥"
+}
+
+.ri-zoom-in-fill:before {
+    content: "ïƒ¦"
+}
+
+.ri-zoom-in-line:before {
+    content: "ïƒ§"
+}
+
+.ri-zoom-out-fill:before {
+    content: "ïƒ¨"
+}
+
+.ri-zoom-out-line:before {
+    content: "ïƒ©"
+}

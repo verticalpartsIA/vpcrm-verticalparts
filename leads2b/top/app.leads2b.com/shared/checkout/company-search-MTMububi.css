@@ -1,0 +1,26 @@
+.logo[data-v-1d45b95d] {
+    height: 16px
+}
+
+.code-input[data-v-1d45b95d] {
+    height: 60px
+}
+
+@media screen and (min-width: 380px) {
+    .code-input[data-v-1d45b95d] {
+        height:90px
+    }
+}
+
+input[data-v-1d45b95d]::-webkit-outer-spin-button,input[data-v-1d45b95d]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0
+}
+
+input[type=number][data-v-1d45b95d] {
+    -moz-appearance: textfield
+}
+
+#verify-phone-code-form .grecaptcha-badge {
+    visibility: hidden
+}
